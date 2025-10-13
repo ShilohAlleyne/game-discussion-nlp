@@ -1,0 +1,61 @@
+{
+  "nodes": {
+    "core": {
+      "inputs": {
+        "nixpkgs-stable": "nixpkgs-stable",
+        "nixpkgs-unstable": "nixpkgs-unstable"
+      },
+      "locked": {
+        "lastModified": 1758732424,
+        "narHash": "sha256-+Eg9jF0bUSiID+2yUA9UOHt0hNJ+takBqhlU3f85/oY=",
+        "ref": "refs/heads/master",
+        "rev": "9796ba6264b8f21a8fac1af377d75337ee833077",
+        "revCount": 4,
+        "type": "git",
+        "url": "file:///home/shiloh/.config/flakes/core"
+      },
+      "original": {
+        "type": "git",
+        "url": "file:///home/shiloh/.config/flakes/core"
+      }
+    },
+    "nixpkgs-stable": {
+      "locked": {
+        "lastModified": 1758731756,
+        "narHash": "sha256-sgB0xQ1tA4cHaJ2TXfoZE6bi52INk7kCjjstyE/4YKw=",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "86e5377d2e83f9480dbb03cc89a192e0130a9b8c",
+        "type": "github"
+      },
+      "original": {
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "nixpkgs-unstable": {
+      "locked": {
+        "lastModified": 1758427187,
+        "narHash": "sha256-pHpxZ/IyCwoTQPtFIAG2QaxuSm8jWzrzBGjwQZIttJc=",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "554be6495561ff07b6c724047bdd7e0716aa7b46",
+        "type": "github"
+      },
+      "original": {
+        "owner": "NixOS",
+        "ref": "nixos-unstable",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "core": "core"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

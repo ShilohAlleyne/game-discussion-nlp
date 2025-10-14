@@ -3,13 +3,15 @@
 
     inputs = {
         core.url = "git+file:///home/shiloh/.config/flakes/core";
+        poetry2nix.url = "github:nix-community/poetry2nix";
     };
 
-    outputs = { self, core }:
+    outputs = { self, core, poetry2nix }:
     let
         system = "x86_64-linux";
         pkgs-stable = core.packages.${system}.pkgs-stable;
         pkgs-unstable = core.packages.${system}.pkgs-unstable;
+        p2n = poetry2nix.lib.mkPoetry2Nix { inherit pkgs-stable; };
 
         py = pkgs-stable.python313;
 
@@ -27,42 +29,23 @@
     {
         devShells.${system}.default = pkgs-stable.mkShell {
             packages = [
-                # Python
-                (pkgs-stable.python313.withPackages (p: with p; [
-                    spacy                  # ML Lib
-                    en_core_web_sm         # ML model
-                    sentence-transformers
-                    pandas
-                    numpy
-                ]))
-                pkgs-stable.xdg-utils      # Opening web browser
                 pkgs-stable.chromedriver
-                pkgs-stable.selenium-manager
                 pkgs-stable.chromium
-                pkgs-stable.dotnet-sdk     # F#
-                pkgs-stable.fsautocomplete # F# lsp
+                pkgs-stable.dotnet-sdk
+                pkgs-stable.fsautocomplete
             ];
 
-            env.LD_LIBRARY_PATH = pkgs-stable.lib.makeLibraryPath [
-                pkgs-stable.stdenv.cc.cc.lib
-                pkgs-stable.libz
+            inputsFrom = [
+                p2n.mkPoetryEnv {
+                    projectDir = ./.;
+                    python = pkgs-stable.python311;
+                }
             ];
 
             shellHook = ''
-                # Epose the location to these bins for webscraping
                 export CHROMEDRIVER_PATH=$(which chromedriver)
-                export CHROME_PATH=$(which chrome)
-
-                # Force PATH to use only the devshell's Python
-                export PYTHONNOUSERSITE=1
-
-                # Force PATH to prioritize devshell Python
-                export PATH="$(dirname $(which python3)):$PATH"
-
-                # Alias python to python3 for consistency
-                alias python=python3
-
-                echo "Using Python from: $(which python3)"
+                export CHROME_PATH=$(which chromium)
+            echo "Poetry2nix shell ready"
             '';
         };
     };

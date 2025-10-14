@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "game discussion nlp"
+version = "0.1.0"
+description = "Natural language models for game discussion"
+authors = ["Shiloh"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+bertopic = "*"
+spacy = "*"
+sentence-transformers = "*"
+pandas = "*"
+numpy = "*"
+kaleido = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

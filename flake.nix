@@ -3,49 +3,68 @@
 
     inputs = {
         core.url = "git+file:///home/shiloh/.config/flakes/core";
-        poetry2nix.url = "github:nix-community/poetry2nix";
     };
 
-    outputs = { self, core, poetry2nix }:
+    outputs = { self, core }:
     let
         system = "x86_64-linux";
         pkgs-stable = core.packages.${system}.pkgs-stable;
         pkgs-unstable = core.packages.${system}.pkgs-unstable;
-        p2n = poetry2nix.lib.mkPoetry2Nix { inherit pkgs-stable; };
-
-        py = pkgs-stable.python313;
-
-        en_core_web_sm = py.pkgs.buildPythonPackage {
-            pname = "en_core_web_sm";
-            version = "3.8.0";
-            format = "wheel";
-            src = builtins.path {
-                name = "en_core_web_sm";
-                path = ./vendor/en_core_web_sm-3.8.0-py3-none-any.whl;
-            };
-            meta.description = "spaCy English model (en_core_web_sm)";
-        };
     in
     {
         devShells.${system}.default = pkgs-stable.mkShell {
             packages = [
-                pkgs-stable.chromedriver
-                pkgs-stable.chromium
-                pkgs-stable.dotnet-sdk
-                pkgs-stable.fsautocomplete
+                # Python
+                (pkgs-stable.python313.withPackages (p: with p; [
+                    sentence-transformers  # ML model for lang analysis
+                    pandas                 # Data manipulation
+                    numpy                  # Data manipulation
+                    pip                    # Python package manger
+                    kaleido                # Plotly images saving engine
+                ]))
+                pkgs-stable.xdg-utils        # Opening web browser
+                pkgs-stable.chromedriver     # Interacting with web browser automatically
+                pkgs-stable.selenium-manager # Interacting with web browser automatically
+                pkgs-stable.chromium         # chrome itself
+                pkgs-stable.dotnet-sdk       # F#
+                pkgs-stable.fsautocomplete   # F# lsp
             ];
 
-            inputsFrom = [
-                p2n.mkPoetryEnv {
-                    projectDir = ./.;
-                    python = pkgs-stable.python311;
-                }
+            env.LD_LIBRARY_PATH = pkgs-stable.lib.makeLibraryPath [
+                pkgs-stable.stdenv.cc.cc.lib
+                pkgs-stable.libz
             ];
 
             shellHook = ''
+                # Epose the location to these bins for webscraping
                 export CHROMEDRIVER_PATH=$(which chromedriver)
-                export CHROME_PATH=$(which chromium)
-            echo "Poetry2nix shell ready"
+                export CHROME_PATH=$(which chrome)
+
+                # Force PATH to use only the devshell's Python
+                export PYTHONNOUSERSITE=1
+
+                # Force PATH to prioritize devshell Python
+                export PATH="$(dirname $(which python3)):$PATH"
+
+                # Alias python to python3 for consistency
+                alias python=python3
+
+                echo "Using Python from: $(which python3)"
+
+                # Install Bertopic via pip
+                # Bertopic isn't a nix packages, but we can still have a 
+                # declaritive version of it using .env
+                if [ ! -d ".venv" ]; then
+                    python -m venv .venv
+                    source .venv/bin/activate
+                    pip install --upgrade pip
+                    pip install bertopic
+                    pip install kaleido
+                    echo "Virtualenv created and bertopic installed"
+                else
+                    source .venv/bin/activate
+                    echo "Virtualenv activated"
+                fi
             '';
         };
     };

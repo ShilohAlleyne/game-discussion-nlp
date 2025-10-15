@@ -1,0 +1,2970 @@
+! Game Devs Beware !
+"App not installed," error for Android.
+"Blocked by Play Protect" problem for Android games
+"Games Against War" charity co-op bundle. Would you like to join?
+"How to search my 'My Library'"?
+"I think most indie devs are afraid to take risks with their games. Here’s why...
+"The application can’t be opened." Problem
+"You ever work on a game and suddenly realize one tiny tweak makes everything fe...
+"inadiquate third party"
+"incompatible third party"
+#GameDev Contest & Livestream - Women Game Developers!
+#NotGDC but I created this fun game
+#NotatGDC An Unlikely Indie Dev
+#NotatGDC but you can still play my weird alternative controller game if you hav...
+#appleunfair
+#gdc - training day for mastering playable ad development in Unity?
+#loveindies - Get Your Name In Our Games!
+#notAtGDC New-ish to the community!
+#notAtGDC but sure want too
+#notGDC & working on uncanny interactive fiction series Sacred Tides!
+#notGDC , instead I'm at home try to finish up couch co-op for my cooking game.
+#notGDC - 3 games made by yours truly
+#notGDC - A Nostalgic Indie RPG Inspired by SNES Classics
+#notGDC - Baby Dino Adventures, a cute non-violent 2D platformer
+#notGDC - College Visual Novel and RPG Developer
+#notGDC - Depower Ball...From TOJam to Realized Potential
+#notGDC - Getting back in the swing of things.
+#notGDC - I left my Job to create Ellen - 2D Pixel Art Horror Game
+#notGDC - I'd like to share a game I made 5 months ago
+#notGDC - Making Games and Starting Engines
+#notGDC - My year as a game person
+#notGDC - Slipstream, a 2D arcade racer (with 25% off)
+#notGDC - Some games i've made
+#notGDC - The Hive Quest demo is now available to play!
+#notGDC - Thrusty Ship - What I want to do vs what I should do... a tale of mark...
+#notGDC - We foolishly released our first ever game during GDC
+#notGDC - a free, open-source, frantic fast-paced local multiplayer game
+#notGDC -when I made 87 games in 87 days last year
+#notGDC 2019 - Share your games
+#notGDC 2019 - The Rainsdowne Players (also 76% off because why not!)
+#notGDC 2019 Flying Free With Ayre
+#notGDC 2019 but I still have a bunch of games that you can check out
+#notGDC AntiVirus
+#notGDC Dunderheid
+#notGDC Flippin Kaktus - tequila powered adventure
+#notGDC I made a game about a personal experience!
+#notGDC I'm a solo dev creating a dungeon crawler called Vault: Tomb of the King...
+#notGDC In 4 days I managed to put out my first real game in over 4 years
+#notGDC Looting Dungeons with no enemies!
+#notGDC My First Game, an Interactive Fiction called Mage Arcade, went up on Fri...
+#notGDC OTO - minimalist platformer puzzle game
+#notGDC Reality Incognita is now a beta!
+#notGDC So I'll plug my Insecure Shoot em up RPG here
+#notGDC Solving Puzzles in Maze Burrow
+#notGDC TAPE project management software
+#notGDC THE DEVIL HAUNTS ME, surreal pixel horror game by a solo developer
+#notGDC The Ambassador: Fractured Timelines
+#notGDC Trying my wings
+#notGDC We find bliss in another dimension
+#notGDC We're brewing Coffee Talk from home, only 14000 km from GDC
+#notGDC What's your goblin gender today?
+#notGDC Working on games at home!
+#notGDC and I didn't know I was supposed to
+#notGDC and doin' jams and makin' games full-time
+#notGDC and finishing my first game HexaCycle
+#notGDC and perhaps not even making a game | APOTU
+#notGDC bc i can experience the crushing weight of capitalism anywhere
+#notGDC because I'm stuck inside a mysterious machine!
+#notGDC because I'm trying to find who killed Fluffy
+#notGDC but I Am Gettin' Lost in the Cave of the Ozarks
+#notGDC but I enjoy making games anyway
+#notGDC but I hope people enjoy my sandbox game
+#notGDC but I'm made a game anyways - Roguelite Top Down Shooter
+#notGDC but STILL dreaming of being a Wizard!!!!
+#notGDC but always ruining friendships - Kingdom Bash local multi goodness!
+#notGDC but celebrating our small studio's 2nd birthday!
+#notGDC but having a blast working towards my first commercial game!
+#notGDC but making a stealth game where you can merge with the shadows!
+#notGDC but still trying hard to get the word out there!
+#notGDC but still trying to live out my dreams with Amber County
+#notGDC but working hard on another local-multiplayer game
+#notGDC but working on cute 3D stuff
+#notGDC but working on my 99 character RPG
+#notGDC due to illness, but still pushing forward
+#notGDC game prototype
+#notGDC play my game in the Alakajam tournament!
+#notGDC staying home to work on Code Romantic, our educational visual novel
+#notGDC with a 10 year old game, 3 years in the making
+#notGDC 💀 Procedural Level Generation in Skeletal Dance Party
+#notatGDC - building Modlands!
+#notatGDC because I'm getting married! :)
+#notatGDC but #itchiorules
+#notatGDC but you guys more than make up for it!
+#notatGDC — but will be there one day!
+#notatgdc - Making a game by myself!
+#notatgdc - finishing Annwn instead!
+#notatgdc - long way from the UK, but hopefully one year.
+#notatgdc ONE DAY MONEY WON'T STOP ME!!!
+#notatgdc and I rather find a public here on itch.io
+#notatgdc and finishing my graphic adventure game
+#notatgdc and here's my constructive post.
+#notatgdc but fixing bugs on Jack Move!
+#notatgdc but playing some Beach Volleyball
+#notatgdc but sequel to Pacific is moments away!
+#notatgdc but still love the indie games community
+#notatgdc but will be next year!!
+#notatgdc, but am making a tileset designing tool for other game developers
+#rentjustice
+#useanygamemaker
+'Indie Dev Story' Postmortem
+'Spellfolio' reached its first 100 wishlists within 3 days after publishing the...
+(Anyone want to/know anyone who would) sponsor our game jam?
+(Itch.io plugged in production) I am going to make a series revolving around itc...
+(couldn't find the appropriate board for this sort of topic) I'm a little upset.
+**"🎉 Thank You for Over 33K Plays on Poki & itch.io! 🙏 Your Support Means...
+-- [Anyone] Looking for friends.
+10 Flags Record by darkdrakan199!
+10 Games 10 Winners Every Week at Cassus.org
+10% download rate
+10000 Browser Plays on My First Game!💥💥
+10y old gamejam?
+15th Annual Life.Love. Game Design Challenge has launched [non-itchio game jam]
+16th Annual Life.Love. Game Design Challenge: Critical Thinking
+17 downloads!
+17,000 games down, I am not making a statement simply informing you.
+1th Jam Center!
+200+ Tracks - RPG Music Kit - NEW Release Sale
+2016 Indie of the Year Jam
+2019 is the year I became a proper indie game developer [Year PostMortem]
+2024 Burning Beaver Indie Game&Culture Festival
+22 notifications, all spam >.<
+28 Views
+2D Atmospheric Platformer Game
+2for1 GAMERS - Contact us and we will showcase your game :)
+300 Downloads!
+34343
+3D Assets for Avatars (vtubers)?
+3D Pandora PRO (26800 games)
+3D Tetris version BlockOut or BlockOut2 ?
+3d mode is leveled? [FPV Freerider]
+3x Indie | first look! Reap,Slipstream and Watch out for Snakes
+4 games not indexed
+4D Graphics?
+4K+ verified game industry salaries
+5 Upcoming 3D Platformers | 2022 Edition
+5 things I've learnt as a beginner dev!!!
+5-15 min game ideas for Uni Library Student---Ideas?
+6th Indie Game Contest - Call for Games !
+771 Items Charity Bundle - Last days!
+:)
+:P remaking discontinued games
+>>>> open call – online museum <<<<
+A Free AI-Powered Game Concept Generator by Impower Games
+A GDC but for Indies? Minus the Screaming.
+A Horror Video Short using a 3D Virtual Tabletop.
+A Japanese web page has my game, what do I do next?
+A Mysteria Multiverse?
+A New Mailing List Platform for Devs and Players
+A Place For Youtubers
+A Rain of Followers! Just say "hello"
+A Sequel to a Multiple Endings Game
+A Serious Question about Reverse Sales
+A Story of Trying to Become Something, Depression, and Life.
+A Thing I Wrote for Uni on Itch.io
+A YouTube Channel on Game Feedback / Playtesting?
+A big thank you to helpful community members
+A birthday request
+A collection of my most favorite games on itch.io.
+A collection of the most interesting games of January 2019!
+A community for print-and-play beginners!
+A coop bundle to show love to small game devs
+A game I'd like to see.
+A game developer questionnaire to aid me in the design of my college coursework...
+A gift from Phodex Games
+A great Game Jam
+A great game I played but can't find: pixel tower defense based on merging tower...
+A hard copy of this amazing rpg?
+A lot of you have asked for this, it has finally come: My Game Collection got im...
+A new site to share and earn from HTML5 Games
+A new survival crafting game top down/2d share me your ideas !
+A question(s) for youtube reviews
+A request from a fan from Ukraine
+A story about itch.io app client
+A story-driven game where you can play as a mentor/guardian
+A torrent please !
+A.I/machine learning.
+AAA/Indie Horror Game Discord?
+AAaarg. No... Room(2).exe.. A Call for Youtubers
+ABOUT MY FIRST GAME
+AI Chat for Game Dialogue?
+AI Generated Games
+AI assets are so annoying
+AI生成的这场闹剧分析
+AMGUS: Attack by Suspection - looking for a related game / recommendation
+ANY developers or content creators out there who are open about their faith in J...
+AWOL Ahab and Frustration
+Ability to exclude NSFW even when uploading NSFW content.
+About Creative Block
+About how many downloads will you get a donation?
+About me
+About the censorship situation, and AI
+About the size of the games on the browser
+Academic survey: Did playing and/or creating games help you cope with a difficul...
+Account deletion
+Act of racism.
+Adastra, Human Cargo
+Add me on xbox
+Adding Portfolio work to Itch.io
+Adult & NSFW Games Collection
+Adult Content?
+Adult game got 11 views in its first 24 hours...
+Advice for beginners who have a dream...
+Advice for getting people to use your art?
+Advice for newbies from a newbie
+Advice regarding finding projects as a Sound Designer, Composer
+After 24 hours since releasing the free demo, 'Spellfolio' climbed to 2nd place...
+Aged like a fine milk [NSFW bans]
+Aggression induced by playing violent video games?
+AightGuy1 HERE
+Algumas considerações sobre Media Kit (Ou como produzir um bom material para d...
+All RETREAM games available for free download / donationware for Ukraine
+All adult content removed
+All images on itch have vanished...
+All of the latest Game AI news!
+Almost at 100 followers
+Alternative's: Need to Step off Unity?
+Alternatives to big social media platforms
+Alternatives to itch.io?
+Always press the save button...
+Am I the only one who wishes to make a website similar to itch.io?
+Am I the only person excited about the Oculus Quest?
+Am willing to play your game/profile your assets on Twitch!
+Among Us but in PowerPoint? (say wahhhhhhhhhhhhhhhhhhhhhhhhhhhhh?!)
+Among us 2
+An Appeal Against the NSFW ban
+An engine for text games and conversations
+An idea to promote indie games with each other on steam.
+Analog
+Android 16 verification trouble
+Animation In Unity
+Announcing the 1st Exile Squadron Championship!
+Anti-Censorship Cheat Sheet
+Any Ambient Self-Playing Self-Evolving Game?
+Any Build Box game devs, out there in Itch.io Land?
+Any Dota 2 players?
+Any FNF characters out there
+Any Furry Visual Novels with Female Protags?
+Any Game Developers around Stevenage, UK?
+Any Games For Me?
+Any Games You Want Reviews On?
+Any Good Detective Games?
+Any Idle or Incremental Game Suggestions?
+Any Kart Racer Discords/Communities out there?
+Any LGBTQ games out there?
+Any Linux gamers out there?
+Any Newbie Game Devs Out There?
+Any Patreon Hints&Tips?
+Any UK developers attending South Hampton Game Fest?
+Any Way to Officially integrate Mercado Pago Here?
+Any Women or Girls on itch.io? Opinions?
+Any cool browser games?
+Any decent free music making programs besides Bosca Ceoil?
+Any fans of Remedy Entertainment?
+Any games like training slayer?
+Any good Non-Shmup Game For High Score hunting?
+Any ideas for a game?
+Any ideas to make my pixel art more popular
+Any must-have games at the Autumn Sale?
+Any new charity bundles?
+Any platform suggestion to promote indie game?!
+Any queer / LGBTQ+ creators from India (or ANY non-western country)?
+Any retro games with a rom on this site?
+Any short fun games to play and rate?
+Any twitch streamers/youtuber can play indiegames?
+Any update on payment processors and NSFW ban?
+Any visual novel romance comedy game recommendation. (accepted, even your game)
+Any way to release an username?
+Any word on that collection of free games in support of BLM?
+Anybody have cool browser games?
+Anybody knows more about the settings and why things work diffrently?
+Anyone Up for a 3D Modelling Competition?
+Anyone else based in Hong Kong?
+Anyone else making non-game content?
+Anyone else worried about the future of itch.io seeing that more sites are banni...
+Anyone excited to play the Resident Evil 4 Remake?
+Anyone have an entra BLM bundle?
+Anyone here familiar with harem-related stories?
+Anyone here learning html?
+Anyone interest in co-op bundle for summer sales
+Anyone interested in doing a bundle for non-English content?
+Anyone interested in interactive storytelling?
+Anyone interested in joining me for a pass-the-pad FatalFrame blind playthrough?
+Anyone know any games about manipulating the environment?
+Anyone know of any YouTubers who do top upcoming games videos ?
+Anyone know the source game for this image by chance?
+Anyone likes string cheese?
+Anyone looking to sell their game project?
+Anyone sold their game design and got a great deal ! Share your experience ?
+Anyone use Discord?
+Anyone want to hear my AOT theory?
+Anyone who wants me to play their game can suggest here!
+Applying concepts from games you made to games you're playing
+Applying to IGF 2020? Learn more about the IGF fee waiver
+Arcade cabinet rotating titles like Netflix? Would it sell?
+Are AI Assets Controversial on Itch io?
+Are AI generated levels allowed?
+Are Games like Brick Mania Still Played
+Are HTML5 games getting more views than PC games?
+Are There Any Non-Cryptocurrency Alternatives To Itch.io?
+Are indie game publisher willing to publish a game with bought asset?
+Are mobile games bad ?
+Are most people here developers?
+Are pornography games allowed?
+Are there any Stephenson's Diamond Age-inspired games?
+Are there any VR based puzzle games to understand the design of complex mechanic...
+Are there any games on itch.io that fit the vibe of this animation?
+Are there any publishers from Turkey ?
+Are there blogs that talk about indie French games on itch.io? Y a-t-il des blog...
+Are there people who actually pay when you put Pay what you want
+Are there some multiplayer games?
+Are these analytics good ?
+Are you willing to help a refugee developer?
+Art Copyrigth Question
+Art Problems
+Art tiles for GOG Galaxy launcher
+Article on the current shadowban
+As a YouTuber and Blogger, How Can I Support Your Games?
+As much as I like sleeze, the BIG one is wether LGBTQ+ is targeted
+Asking for tips on creating a portfolio website
+Assembling a Halloween-themed Bundle. Want to Join?
+Asset Forge Question
+Atari Arcade Game by CuriFab
+Athens Digital Arts Festival Open Call 2021! Theme : Tāctus
+Athens Digital Arts Festival Open Call!
+Autistic Creator Co-op Bundle
+BAD VIBES just reached 100 high scores! #notatGDC
+BG Auto-Scroll with Animated Frames
+BITLIFE how to do that kind of game?
+BOOK WRITERS, INTRODUCE YOURSELVES!
+BOYCOTT ITCH
+BUSCO COLABORADORES PARA CREAR UN VIDEOJUEGO
+Balance 2D our new game
+Baldimore's Highschool - Community Giveaway
+Ban NathanGorillatag
+Bandcamp is now owned by Epic
+Bank holiday (UK) jam
+Battle Core bug from VisuStella MZ
+Be careful what you download!
+Be in a 9BitGame!
+Beginning my journey as a game dev
+Behind the Scenes of creating a Prototype VR Experience!
+Believe in youself!!
+Best Free with optional payment Model?
+Best Indie Games 2019 (First Half)
+Best NSFW Game?
+Best Practices for Updating Devlogs?
+Best Straightforward Indie Horror Game
+Best online multiplayer game in the Racial Justice Bundle?
+Best way to market my comic series?
+Best ways to publish a game?
+Bitmoo looking for Youtubers/Streamers for cute game
+Bitsy Breakfast Jam!
+Black screen when joining multiplayer
+Bleed 2 not downloading properly?
+Blockchain and gaming can they co-exist?
+BluWord is inviting you to write an inspirational story that would make the vide...
+Blue tube
+Book Bundle
+Boss Battle Music
+Bots in comment sections, that praise games
+Bottle Biosphere -Living with a runaway girl- Update report
+Boycott Itch Cowards until they reverse the Mastercard Decision
+Brackeys tutorial being used as submitted games
+Brainstorm how to get more people involved in the community
+Brasileiros na Itch.io!
+Breach?
+Brief Interview Request : to whom has high-proficiency in codding/programming la...
+Bring back adult games
+Bringing back RPG's
+Bug Création Athlètes NGL Biathlon
+Building Complexity
+Building indie games is your hobby or a mainstream work?
+Building?
+Bulk Keys and Pre-Order, How do they work?
+Bundle Anyone? (Must be a skilled dev).
+Bundle Colab
+Bundle for Black Trans Women
+Bundle for Racial Justice and Equality is HUGE! What should I play or read firs...
+Bundle for Uvalde - call for submissions
+Bundle of shame
+Bundle of shooter games
+Bundles Ultimate
+Burnout Chat
+Buy bundle now, new games later?
+Buy button widget
+Buying NSFW games on Itch.io? PayPal may Nuke your account!
+CALL TO JOIN OUR SPRING BUNDLE WITH 50 GAMES!
+CONCAVE ideas
+CTR
+Caddyshack the golf sim
+Call Of Perseverance
+Call for entries - 13th IMGA Global
+Call for submissions for the Experimental Gameplay Workshop 2021!
+Call for submissions for the Experimental Gameplay Workshop 2022
+Calling All Indie Devs Who's games need exposure
+Calling all Youtubers and content creators...
+Calling all devs and creators - Indie Newsletter
+Calling all fans of Redlabs games, Multiplayer games, or Shooter games!
+Camera view in a CoOp Game
+Can "Free for personal use" images be used in free games?
+Can Chromebook run unity?
+Can I Make Money By Free Game
+Can I have a game to play?
+Can I make fangames?
+Can I publish my drawings?
+Can I show in-game ads in my game?
+Can I tip NSFW titles that are free right now or would that put the author at ri...
+Can Somebody Find A Archive Of This Game?
+Can anyone let me interview them?
+Can anyone put my oc in your game (his name is old coot)
+Can anyone recommend me games?
+Can anyone suggest an alternative that isn't steam where 99% of the games aren't...
+Can i do general talk here? LOL just kidding
+Can not play games
+Can people stop being so mean, downvoting people's comments and complaining on i...
+Can someone explain to me how to use Patreon?
+Can someone give me some rpg maker game recommendations
+Can someone help me find a game from a long time ago?
+Can someone help me find this game
+Can someone stream my game: Dishes n' Dragons
+Can someone who owns a mac please test this for me. It'll only take a second.
+Can you get banned for making your game have everything?
+Can you help me to find a game?
+Can you recommend me some free high quality games ?
+Can you recommend some free and horrible games to me?
+Can you share your stats and analytics here?
+Can't Find Game
+Can't download Stairs of basically
+Can't find a game
+Can't find my game anywhere!
+Can't find these games again !
+Can't run on Digital Logic Simulator on Mac High Sierra
+Canadian Solo Game Developer #notGDC
+Cannot find UI asset pack I saw some time ago. Please HELP
+Cannot see my UI score screen in published game on Itch.io
+Cant get payments
+Cant play some unity games
+Card Game Planning
+Categorized Palestine bundle into collections, links in post
+Categorized Racial Justice Bundle into collections, links below
+Categorizing games
+Celebrating game designers through "Minds Behind Games"
+Cesar Ornelas New Here
+Change my URL
+Changing my URL
+Character-Rich Adult-Themed Management/Dating-Sim? Definitely #notGDC material!
+Charging commissions for collaborative indie projects?
+Charity Sale for a Rest Home
+Charity donations
+Chat with me
+Check out my Album (if you got some times)
+Check out my Indie Horror Game Channel (A lot of Ich.io Games)
+Check out this 5 Indiegames, that will be out soon on Steam !
+Cheers to my boy coryxkenshin.
+Chicken or Beef?
+Children Shoudent Play Visual Novels : #1
+Chinese Indie Game《Just Ride》
+Choreo : Legend of Loco EGX Contest
+Christian Games & Developers Thread
+Christmas Game history
+Christmas Houses! 🎅🎄⛄🎁❄
+Classic Fallout sequel that we deserve [game idea]
+Classic PS1 games on PS Plus
+Climate Fighter Introduction
+Closing down shop
+Cloudnovel on itch.io
+Co-OP bundles for Black Friday
+Co-op bundles
+Code for bundle split proportional to full price (APL)
+Collecting Employment while Making Games
+Collections getting deleted as well?
+Collective Shout took down 'NSFW' games INCLUDING ones that alligned with their...
+Color swapper / sprite art re-palette-er
+Come and join The Micro-RPG Jam!
+Come on，where can i get fans？
+Comic making tycoon game: A survey with interest check
+Community made Game
+Community made game, please suggest
+Company sponsored game jams
+Compendium an alternative to Wikipedia!
+Complete newbie question
+Composer - Free Music for your Games!
+Compressed zip files
+Comunidad de Desarrolladores Mexicanos 🇲🇽
+Congrats Devs, this game is just... FUN!
+Connecting Gamers
+Considering a name change
+Construct 3 Games
+Content Creator Looking for Games!
+Content Creator looking for games!
+Content Creators / YouTubers interested in Virtual Pet Games?
+Continue the sale of the bundle for racial equality pls?
+Controls
+Converting Enterprise games over to a UK computer .Tatung Einstein
+Copyright Question!
+Copyright problems
+Core Systems: Little Nightmares
+Could Arcades Be the New Discovery Engine for Devs?
+Could Itch make finding Game Jams your in easier?
+Could anyone please help me find a game that I believe was/is hosted on itch.io?
+Could you make a name for my team together? Do you have any good ideas?
+Could you recommend a game please?
+Could you tell me about your issues with 2D game assets?
+Counteracting Payment Processors from Harming Itch.io
+Crappy Game Jam
+Crashing on macOS High Sierra
+Crazy Idea but...
+Create HTML canvas graphics without writing code
+Creating a game specific discord server
+Creating an Inventory System is Unsurprisingly Tedious...
+Creating my first physical game
+Creator Dashboard Filter + Search (Chrome Extension)
+Creator Pages Age Box
+Creators using the Racial Justice bundle as advertisement?
+Creators, if you had your game removed (not just hidden from front page) please...
+Crediting Contributors: A Call for Recognition in the Gaming Community
+Crediting Question
+Cribbage
+Crowdfunding. You already did? Help?
+Cryptocurreny for Games
+Crystals Pack 1 [22 CRYSTAL] - Magic pack
+Cube OS 2.0 Teasing #AWESOME
+Cube OS Version 1.2.0 is Up !
+Curious About Paid Experiences on Popular AI Chat Platforms
+Curious if anyone’s still experimenting with “chat-based games”
+Current state of Indie game development and will AI affect it's future
+Custom CSS to make middle portion of itch page somewhat transparent
+DCG #notGDC - Crusaders of the Tinfoil Hat RPG (in development)
+DTA Studios' Community
+Dark Matter - On Sale! New Royalty-Free Sci-Fi/Fantasy Music & Loop Pack For Gam...
+Deadline of the century.
+Deal websites
+Dear Diary
+Dear itch community - THANK YOU
+Decided to write something regarding censorship
+DefleMask - Instruments for SMS
+Delete all ADULT games
+Deleted Asset Packs
+Demo
+Demo review of the Lone Fungus
+Dev's PLEASE give us a bow and arrow.
+Developers: Set your profit share to 0%
+Deviation 7e will not work on my main PC
+Devs removing games after commenting
+Devs: What is your Greatest Game Making Sin?
+Dicey Dungeons update erased my progress
+Did they learn nothing from Tumblr
+Digital books?
+Dilemma with rating games here
+Dima Link Journal
+Dima Link video
+Discord server related to adult game development?
+Discussion about AI in games and game development
+Discussion about game home screen!
+Discussion about using AI in game dev
+Discussion board
+Do Horror Games Really Get More Attention on Itch?
+Do Indie devs use analytics?
+Do Not Comply In Advance
+Do You Have a YouTube Channel?
+Do anybody wanna play halo?
+Do games have to be social?
+Do games on itch usually gain passive views or a burst of views on launch?
+Do not smoke, drink or use drugs!
+Do not update your games by deleting them and uploading them again
+Do people use the itch.io app as an actual web browser?
+Do we get Notification of game review process for indexing
+Do you agree?
+Do you care about LGBT elements in RPG games?
+Do you enjoy games like Pokemon, Digimon, Etc?
+Do you ever feel like you can't stand working at your job anymore?
+Do you ever feel that some AI chat platforms' image generation features are kind...
+Do you give press access to your games?
+Do you guys have any experience of steam playtest of indie game?
+Do you guys think i am capable of making a commercial game
+Do you have a horror game and looking someone to promote it for free? recommend...
+Do you like GAMING VIDS with NO commentary?
+Do you make money by making free games?
+Do you play survival games?
+Do you recommend this site?
+Do you think AI can replace game artists?
+Do you use the Itch launcher ?
+Do you want game characters to remember your choices longer and have a deeper im...
+Do you want to join our Winter itch.io Selects Bundle?
+Do you want your game reviewed?
+Do you work on multiple big projects simultaneously?
+Documentation
+Does Anyone Have Or Can Suggest Good Pixel Art City Sprites?
+Does Anyone Know How TO Get Recognition from Youtubers?
+Does It Bug Anyone Else When People Make Multiple Pages For One Game?
+Does a game being browser based make you want to play it more?
+Does a list of Indie-Friendly Twitch/Youtube channels exist somewhere?
+Does anybody know what the schedule is for the Game Jam Digest?
+Does anybody wanna play FNF Multiplayer with me?
+Does anyone coverage the game Sheris Dungeon?
+Does anyone even like our payment processors?
+Does anyone have a list of the deindexed nsfw games?
+Does anyone have the game files of the phobia project game
+Does anyone know of games about SA trauma?
+Does anyone know this game? PLSSS SOMEONE HELP ME 😭😭😭
+Does anyone recognize this game?
+Does anyone remember this game?
+Does anyone still have Love Letter by ponponchu
+Does anyone want to recruit a Chinese language translator for their games?
+Does creativity and art have a border and an end?
+Does it exist? Or is there a subscription offer on ITCH.IO?
+Does it have to be a game?
+Does itch.io use WhatsApp?
+Does this make buyers trust you more?
+Does updating your game/page boost it in visibility?
+Does uploading a free game onto itch count as commercial use?
+Dog Days (Or Cats) of Summer Sale 2020 On All Game Audio Music & Loop Packs!
+Doing research on emotion in video games - can you help?
+Doki Doki help
+Domnate them all on itch.io has a virus in it
+Don't Forget... Something New
+Don't bite me bro
+Don't buy any bored ape pictures!!
+Don't get personal Mods and admins but
+Donating to purchased products
+Donations on mobile games
+Donations without ranking?
+Donations, payouts, and taxes questions
+Dordle stats resetting every day
+Doubt on how to post my project announcement
+Doubts of new user
+Download help
+Download without Winzip?
+Downloading Empire Deluxe update
+Downloading games from racial justice bundle
+Downloading on MacOs
+Dream Beta 0.1 Release!
+Dream Journal
+Dreampunch - Game Development Resources & Learning
+Drew's Channel
+Dropping down a game prompt (will tweak it)
+Duda
+Dune's Island - A Free Video Learning Series
+Dungeon crawling games: survey and interest check
+Dungeons & Dragons but for Tasks!
+E3 Meet 2018
+ERROR OPENING GAME
+EU petition to hinder payment processors acting as arbitrary censorship entities...
+Early Access Dissertation Survey for Players and Game Devs
+Earth - Life Sim (Is it still worth developing?)
+Educational games project for autists/kids
+Embedding on blog
+End of February Sale On All Royalty-Free Game Audio Music & Loop Packs For Game...
+End online DRMs!!!
+Enter UK Game of the Show Competition - Calling UK developers
+Envy, competition and comparison.
+Epic Games Grant Available for Unreal Engine Developers
+Equin: The Lantern, Big update and 50% off sale!
+Every time I launch a game it just closes after it loads up for a little bit
+Everyone get ready for possable new changes in game developement because EU cons...
+Examples of Great Game Pages
+Exodemon on Greenlight!
+Experimental Game Workshop 2023
+Extra Life Game Day
+Extra uploading space required!
+F4 fullscreen rpgmaker
+FIND LOST GAMES COMUNITY
+FIND THIS GAME!!!!!
+FPV Free rider demo - Ubuntu
+FRIDAY NIGHT FUNKIN IS THE BEST RYTHM GAME OF MY LIFE
+Facebook
+Fall Zone Game
+Fan de jeux
+FateStar
+Favorite Soundtrack from a Game
+Favorite gameplay mechanics?
+Favorite ice cream flavor?
+Favourite Game Genre?
+Favourite pizza toppings?
+Fcollectiveshout
+Fear of the Dark - an existentialist rant
+Featuring game jam?
+Featuring your art!
+Feedback about Ideas of Games
+Feeling a bit burnt out
+Fellowplayer's forum, record your games for YouTube 10k and counting.
+Fhtagn!’s one year anniversary and first community-written story pack!
+Fighting against cowardace. The removal of No Mercy as pressured by an ANTI LGB...
+Film et série
+Filmmaking with Pixel-O-Rama
+Filter On Main Page
+Filter out the porn or I'm out
+Filter restrictions
+Finally fixed my computer after 3 whole years, what have I missed?
+Finally reached 100
+Find Every AVN Here
+Find a Game
+Find your passion & be excellent to each other.
+Finding Motivation / ideas
+Finding a Visual Novel
+Finding the right assets for my project
+Finished games
+First 20 people get Captain cats for free!
+First itch.io game you ever played?
+First-person shooters: Why Gamers Can't Stop Playing
+Fish Life for the not very techy!
+Five Night's At Freddy's Roplay?
+Five Nights With Melon Community
+Fix the right margin on screenshots/videos
+Fixing a problem with my games.
+Flash Sale on All Action, Suspense & Horror Music Packs! 50% Off!
+Flood Itch with more NSFW
+Flow States in Games
+Flyff
+Food Fight Port to C64
+For Administrators: How to Solve the NSFW Problem: An Idea.
+For Android Mobile games (From PlayStore) = Making a video for your game on YouT...
+For NSFW devs - Are your downloads slow too?
+For Weil divisors, does the valuation depend on the isomorphism chosen?
+For an error I donate for Ghosts'n'demons
+For my BA i'm creating a digital concept that connects devs and users
+For shooter Lover "Bottle Shooting games with gun"
+For the Word Puzzle Lovers
+Forbidden downloads on android
+Forgotten?
+Free Raft Multiplayer?
+Free coop multiplayer games?
+Free game promotion for indie devs on Tik Tok.
+Free steam keys giveaway!
+Freerider controllers
+Friday the 14th SALE...Everything 50% off (my whole library)
+Friday the 14th Sale! 50% off ALL assets
+Friends Around the World!
+Friends I have this initiative to populate our indie games with reviews
+From "stop killing games" to "let us pay for games"
+Full Service play error
+Fun with Night Donuts
+Fun with games
+Fun, unique games/ideas for games?
+Funny Screenshots
+Future development goals?
+G'day hehheheheheh
+GAME WENT** VIRAL** WITHEN 24 HOURS OF RELEASE
+GDC 2016, who's going?
+GDWC Game Explore
+GDWC On The Real Professional Podcast with DreadXP
+GDWC Talks 2 This Friday - Indie Developers Talking About Their Game Development...
+GDWC Top 10 Games Of July 2022!
+GDWC Top 10 Games Of June 2022!
+GDWC Top 10 Indie Games for August
+GMC Jam 36 begins tomorrow: Game Maker users, wake up!
+GNU Linux: 32 bit games on a 64 bit machine...
+GOOD News!!!
+GQO cant use in V67?
+GTA inspired game
+Gacha Dream
+Gacha Life 2 IDEAS!
+Gacha Life is not working
+Gal-X-E gone?
+Game
+Game 2d
+Game Design Challenge : Social Connection
+Game Design or Art Internships
+Game Dev Channel
+Game Dev Couch Podcats
+Game Dev Discord Communities
+Game Dev Flash Sale on All Action, Suspense & Horror Music Packs! 50% Off!
+Game Dev Flash Sale on All Royalty-Free Fun, Quirky, Pop Music & Loop Packs! 50%...
+Game Dev Looking for YouTubers/Streamers
+Game Dev University Research Survey!
+Game Development World Championship 2022 Prize Pool Over $100,000!
+Game Engine Free Downloads
+Game I can't remember
+Game Idea
+Game Idea Spread the WORD
+Game Ideas
+Game Incomes/Revenue
+Game Jam Calendar for 2017 through 2018?
+Game Not Appearing
+Game Not Loading
+Game Promotional opportunities
+Game Ratings Tab missing from game page
+Game Reccomendation Needed :D
+Game Reviews Survey for Project (Anonymous) (Research)
+Game Reviews?
+Game Support
+Game Testing Volunteering
+Game Update Pitch for Zombieville USA 2
+Game World Survey
+Game about managing a news agency: looking for people to fill out a small survey
+Game competitions (Not game jams)
+Game concept WIP title Ashes of Desire revised
+Game creation
+Game developer survey
+Game ideas?
+Game jam games that went viral
+Game jam results didn't populate
+Game maker studio 1/2 trial gamejam
+Game not showing when I search for it
+Game page for unreleased game with dev blog?
+Game recommendations to practice with localization class?
+Game recommendations?
+Game recommendations? Fun kids game for math skills
+Game shoutouts for the BFRJE
+Game still not got published.
+Game will not install on Mac
+Game with the longest name on itch.io?
+Game writers...How did you get started
+GameDev Secret Santa 2015
+GameDevLog Channel
+GameJam Diaries
+Gamejam agreements?
+Gamers and developers survey for great good
+Games Are Fun, So What Are You Playing?
+Games Bundle for Haïti
+Games For Purchase
+Games Recommendation System - Dev Progress
+Games about elderly memories ?
+Games do not open on my MAC - Needs developers signatures??
+Games for ukraine
+Games from Lunatic Rpgs? Is worth buying?
+Games ideas right as you finish a game
+Games not working
+Games on ITCH.Io compatible with Windows NT 4.0
+Games that are about doing things in Real Life (game & self-development app hybr...
+Games to check out on a trip?
+Games with sentient robots?
+Gathering data for my Master's Thesis
+General Discussion
+General Practitioner meet ups
+General Practitioner meet ups?
+Generating a new GUID for new version of same application (Inno Setup Compiler)
+Gestalt in Games - Difficulty
+Gestalt's Common Fate principle in Video Games
+Get Sprunki Off Itch.io!
+Get Thicced?
+Getting "Application can't be opened" on Mac OS X El Capitan for many games
+Getting Publicity
+Getting a game become viral - Ideas Collection
+Getting my games on the page
+Ghosts N Demons pak extraction?
+Ghoul: Fatal Addiction [game idea]
+Girls are "LGBT", Boys are ‘just’ "Gay" - the appropriation of the tag "LGBT...
+Gitlab just like github is trying to require/mandate 2fa
+Give a shoutout to your Country!
+Give link and i will make a gameplay video on your game with detailed feedback...
+Give me your game descriptions!
+GiveawayOne - Horse Mocap at $1
+Giving Tuesday TTRPG Recs?
+Giving away 64 copies of Deathly Orbs
+Gladius code
+Good Nature Tilets for RPG Maker MZ
+Good Underwater Controls (In Mainly Abovewater Games)
+Good Underwater Levels
+Good itch.io games to speedrun
+Good night
+Google Featured Snippets
+Google Play Store Indie Game Exchange Now Available
+Google Play store - how lewd is too lewd?
+Got 7 minutes to change 3D education?
+Got ADHD? Send me some stories!
+Got a Youtube dev channel?
+Grab Shiny Youtube Channel Looking for Games to Play
+Greenlight Promotion for my 3D Social Game - Project Lounge
+Greetings! I am looking for active friends to chat with about my games and art!
+Grupo de jogos renpy visual novel
+HAPPY 4TH OF JULY!!
+HAPPY NEW YEAR!!!
+HELP - Sell Itch Keys on Own Store
+HELP i forgot the name of a game and i was wondering if anyone here would recogn...
+HEY YOU! YES YOU!! get in real close right now.. REEEEAL CLOSE *FOREHEAD TO FORE...
+HI
+HOW TO DO A INVISIBLE AVATAR
+HTML game question- can I have an iframe to a game I'm hosting elsewhere?
+HTML5 game made with phaser not playing - 403 error on loading javascript
+Halloween Sale 2019 On All Royalty-Free Music & Loop Packs For Game Developers!
+Happy 4th of July everyone
+Happy Halloween
+Happy Halloween :DDD
+Happy Halloween!
+Happy Holidays
+Happy Holidays!
+Happy New Year and TronusGames presentation...
+Happy Pride Month! 🏳️‍🌈💜
+Happy Tree Friends Game
+Happy new year! Here are the games I've completed in 2020 🕹️
+Has Anyone Made a Graphical Story Using a 3D Virtual Tabletop?
+Has Itch.io Started Healing?
+Has anyone made a Discord for writers on itch.io yet?
+Has anyone tested these Windows Handheld Gaming Devices with RPGMaker VX Ace, MV...
+Has your game been rejected because it wasn't on Steam?
+Hasslevania 2 on Steam Greenlight
+Have A Nice Day :)
+Have my game shown on my webpage?
+Have to try to sign in twice !!!
+Have you been waiting weeks/months for your payout? Please reply here!
+Have you ever worked on a game for a long time...
+Have you heard about Men's Mental Health Month june, but make elements in the ga...
+Have you seen this image in an itch.io game?
+Have you used a recording feature before?
+Having an administrated game on my homepage
+Having multiple builds for your game for different languages
+Hello
+Hello Game Devs
+Hello Itch io gamers!
+Hello Itch.io community
+Hello World!
+Hello everyone!
+Hello fellow Minecraft fans!
+Hello from Lantern Light Studios & Gloobs!
+Hello people. I'm new here. Nice to meet you
+Hello! I Am New Here!
+Hello, I am looking to see if someone is making a borderlands style game.
+Hello. I'm bored!!!
+Hello/Gamer/Developers
+Help
+Help Me Find 3D Artist Please
+Help Me Find A Retro Browser First Person Shooter
+Help With Creativity
+Help find nsfw game
+Help find this game
+Help finding a game
+Help finding a game!
+Help finding a game.
+Help finding a game...
+Help finding ttrpg about video game developers sucked into their own game
+Help in finding NSFW games.
+Help me decide new UI
+Help me find a game
+Help me find a game ( i can't remember what it's called)
+Help me find a game please!
+Help me find a game.
+Help me find this game ! :( - Halloween town delivery
+Help me get this virus page removed from itch.io blogs
+Help me get views on my games 🥺
+Help needed
+Help needed in rediscovering an old game.
+Help needed with Piano Visualizer
+Help required with the Tax Interview
+Help running a Linux game on Chromebook
+Help support Mission to Mars on Kickstarter
+Help to good people.
+Help with creating a self-study curriculum for game art?
+Help! Can't Find Game!
+Help! Don't know if this Visual Novel can bring me legal trouble!
+Help! Is my art good enough to do commissions?
+Help! What am I doing wrong?
+Help, I need reviewers!
+Help...
+Help?
+Helping Artist question/idea FEEDBACK NEEDED
+Here Is Over 150 US And International Gaming News Contacts. Use Them.
+Hey There!
+Hey can some one pls put my oc in your game
+Hey what do you guys combine your whip cream with?
+Hey y'all!
+Hey, I wanna promote.
+Hey, how did you all start game dev ?
+Hi I need help
+Hi I've been dealing with a problem with someone attacking my nsfw game..
+Hi Itch.io!
+Hi guys we have start a group for multiplayer game
+Hi my name is AJ i like to party!
+Hi so, Im making a game called Cube The Explorer. Anyone interested in a devlog...
+Hi the people of itch!
+Hi!
+Hi! How do people usually advertise themselves?
+Hi! I'm new here!
+Hi, Question about copyright issues
+Hide Price?
+High Cost of Living
+Holiday sales are now live!
+HoloLive
+Holy f****** s*** thank you
+Honestly Tho, should I change my name?
+Horror Game Cliches
+Hot Take
+How Can I Improve My Game?
+How Do I Motivate Myself to Make my dream game.
+How I wasted a year of my life creating a game I despise (and how you can do bet...
+How Long Did It Take For You To Learn Unity?
+How Much Is Music?Generally
+How NFT is going to change the way we create game or game assets.
+How One RPG Contains Over Three-Hundred-Thousand Fantasy Races! (FULL BREAKDOWN)
+How To Creaate A mazeeeeeeeeee but i dont knowwwwwwwwwwwwwwwwwww
+How To Install Games in Ubuntu (Have Pity!) :(
+How am I suppose to start where I live ?!
+How and Where could I promote my itch.io devlog?
+How are we supposed to trust you?
+How are you guys?
+How can I distinguish phishing emails from these types of emails?
+How can I find games for instead engine
+How can I get featured
+How can I get more devs to see my game jam?
+How can I get more ratings for my game?
+How can I get the first downloads of my game?
+How can i learn?
+How can i make sure everyone with my game receives a patch when i make a new one...
+How come several popular indie games arent here?
+How did you all solidify your game ideas in pre-production?
+How did you build a community for your Game ?
+How do I add an index.html?
+How do I backup HTML5 browser game saves ?
+How do I change my primary email?
+How do I check my ranking in the competition?
+How do I claim income from itch on my Canadian taxes?
+How do I configure NSFW to not appear on Itch.io pages?
+How do I download games?
+How do I find times to do translations or localizations?
+How do I get my game covered by game journalists?
+How do I improve my CTR?
+How do I know if my game is priced correctly?
+How do I make my game show up as playable in browser?
+How do I open a .love file on a mac?
+How do I play my downloaded game on my windows laptop?
+How do developers want their game to be played? (Among Us)
+How do i go about selling my game ?
+How do i play my game
+How do players follow a game from Devlog to Release?
+How do the formats of web comics work on here?
+How do you Connect with your Target Market/Community?
+How do you balance work and game making?
+How do you deal with fearing that your game isn't good enough?
+How do you feel about AI-generated assets being sold here?
+How do you feel about BlueSky app?
+How do you feel about this image?
+How do you find your first players?
+How do you get ideas to make games?
+How do you get into game dev?
+How do you get playtesters
+How do you guys fight of writers block when making a game?
+How do you improve the rhythm of your games?
+How do you keep track of runtimes/DLLs/redistributables no longer required for u...
+How do you make your games ?
+How do you manage to let someone know about your video games?
+How do you play games you have downloaded
+How do you send your game to other people without the link (Like Beta Tester)
+How do you view transactions on this site?
+How does creative overlap work in game dev ?
+How does itch.io host 1 million free games?
+How does itch.io's pre-order model work?
+How far is too far?
+How far should I go to tag my game and assets?
+How gamedevs survive in high cost of living regions
+How have the moderators days been?
+How i can modify the client to load roblox assets
+How i patch 2011+ roblox clients on x32dbg
+How important is Halloween for game releases ( on this website )
+How is "popularity" determined?
+How is everyone?
+How is itch.io so awesome?
+How long have you been here?
+How long until support replies?
+How many of the games you downloaded from itch have viruses?
+How much attention did you get with your game without marketing?
+How much do you make off of web games?
+How much money do people make with 'Pay What You Want'
+How much money is earned on itch.io
+How much time does it take for a game to be sold on itch.io
+How much would you be willing to pay a voice actor?
+How much your work worth ?
+How old were you when you published your first game?
+How should I promote my game?
+How to "buy" games that are 100% off (temporarily free)
+How to Get Users for 125+ Active Games Live on Google
+How to Make a Game while Dealing with Illnesses?
+How to actually get my games played?
+How to add a picture to your post on the forms
+How to add game to Twitch Database?
+How to add rate game tab.
+How to avoid game mechanics becoming "repetitive labor"?
+How to be featured on the itch Youtube channel?
+How to build you rpg maker mv game
+How to change URL?
+How to claim free games that don't have payment links?
+How to contact youtubers and streamers to play your game ?
+How to create a website?
+How to create good banner for game/asset pack?
+How to deal with doubts after finishing a game?
+How to design a game that will make players willing to spread or recommend it sp...
+How to download games on Itch.io
+How to embed a HTML/Flash game elsewhere
+How to find a particular 1D Pacman game that was on itch.io
+How to find developer teams who need a little help to get across the finish line
+How to fund your game using Patreon while still developing?
+How to get a following?
+How to get a more dedicated audience?
+How to get downloads
+How to get featured in some way?
+How to get feedback?
+How to get free Upvotes on your comments
+How to get games to work lol
+How to get included on the main page catalog?
+How to get my game tweeted about on Itch.io's Twitter?
+How to get people to play your games
+How to get recognized??
+How to get your game played on YT?
+How to give itch.io 100% Profit for the game i will sell
+How to know what project to focus on?
+How to make Lore for a game
+How to make game more popular
+How to make your game succeed!
+How to make your video/image appear when posting
+How to market your game,Any suggestion
+How to play Kentucky Route Zero Act V after having already downloaded Acts I-IV?
+How to play backgammon
+How to promote a game after updating it (and help with reddit)
+How to promote your game. anyone???
+How to pronounce words that start and begin with the same letter or with letters...
+How to properly get back on track
+How to reach audience for my game
+How to satisfy "core players" while not alienating "newbie players"?
+How to save a recorded animation as movie file to disk on MacOS?
+How to sell our Twich.tv clicks inventory?
+How to start playing tabletop RPG (step by step)
+How to sticky a thread
+How to translate games?
+How to update Among Us on Windows (not Steam)
+How to: (Warnament demo edition)
+How would I choose face other than an Avatar? How would I lay out positioning?
+How you decide that an asset pack is worth buying?
+Howdy!
+Html Versions of my games
+Html5 game won't run on amazon kids browser
+Hymileks Echeldia Archives
+Hypercasual Games Required (html5)
+I Just Build Channel about : Sprunki Please Help Me
+I NEED HELP
+I Still Need You, But You'll Never Know the New Games
+I WILL REVIEW YOUR GAME!!!
+I Will Play All Your Games on YouTube !
+I am #notatGDC, but I'll be doing yet another game jam!
+I am Brooke Jessica Kaio
+I am here to suggest tweaks "Making a Vidoe on YouTube + Giving Feedbacks"
+I am in deep despair
+I am interested in helping small or big game developers
+I am looking to promote your game on our youtube channel with a huge network
+I am once again asking for more games to play and share
+I am scared...
+I am struggling to market my games. Any tips??
+I am very happy to call myself an early adopter of Glomble (The Youtube Alternat...
+I am working on a war simulator like battle cats
+I bet Gen Alpha will be nostalgic for this site/What will be your kid's first ga...
+I can't download things
+I can't get Any views on my game
+I can't remember the title of a 2D ball platform game that uses magnetic power
+I cant play any libgdx java games with the latest JRE
+I could really use your Help.
+I dont know if it is the right one...
+I drew momo from google doodle
+I encourage all devs, nsfw or not, to leave or boycott itch until this is revers...
+I enjoy itch io, but...
+I feel like my game is a failure
+I find myself at the biggest roadblock in game development...
+I forgot a word! Help!
+I got scammed
+I guess it's time for a gaming platform that only accepts crypto has payments.
+I had to unsubscribe the forum because of spam
+I have 30 views, 10 downloads and 4 subscribers.
+I have a game idea, now what...
+I have a very important question for my future project
+I hope your happy
+I joined a Team for A Game Jam with Social Anxiety and Imposter's syndrome. Here...
+I just found a game where a newborn watches their parents f___. Odds are this po...
+I just made a new episode of 5 Trailers 5 Indie games, I hope you enjoy watching...
+I lost a game I was hoping to get.
+I love itch.io even though I'm #notatgdc​​
+I love itch.io!
+I love the Itch.io community
+I made Grids and other Steam assets for over 100+ itch.io games
+I made this.
+I make videos
+I need 15 People For This Blender Course!
+I need a game name with the details I give you
+I need advice on Feedback questions
+I need followers!
+I need help
+I need help finding a game (idk if this is the right place to ask)
+I need help with this pixel art
+I need indie game dev no budget
+I need some free platformer games to play, preferably in cyberpunk or sci-fi the...
+I need to contact a developer...is there a way apart from comments on his posts?
+I need your opinion Mind Loop(Prototype)
+I once saw a giant book about roguelikes, but now I can't find it. Help!
+I published a game yesterday but its getting 0 views. Am I doing something wrong...
+I rated over 700 games on itch.io How many games did you rate?
+I really really want to make money off of patreon to make rent, all of my games...
+I saw an interesting game elsewhere, but I don't know the name and download addr...
+I think Mind Loop gonna get canceled :(
+I think about requesting a refund...
+I think your "dream game" is talking to you !
+I wanna Roleplay with someone lol
+I wanna find this game!!!
+I want create bundle
+I want to ask about game pages.
+I want to find a game
+I want to make a game! BUT I have a lot in my plate
+I want to play every game that has used my art
+I want to play your games to comment on them as constructively as I can
+I want to play your games!
+I want to play your under-viewed games!
+I want to review early access games. Any tips?
+I want to start a charity project, but I don't know how. Thoughts?
+I want to talk with someone lol
+I want to talk. Sorry for the mistakes, I'm not American.
+I will give feedback for your web games
+I will play your game, if you reach the world 4 of my game in less than 2 hours
+I wish more developers used proper versioning for their projects on the itch.io...
+I wonder if I can properly upload MoonScript to my own site?
+I would like to check out and review some of your games!
+I would like to make a reim, how do I?
+I would love to play your game and give a feedback\review
+I'll Stream your Game UPDATED
+I'll be honest; this is probably selfish of me.
+I'll review your game!!!
+I'm #notGDC all the way
+I'm #notatGDC, but all my friends are
+I'm Becoming Stuck With My Own Thoughts (Rant)
+I'm Hosting a Game Jam (The Black Light Jam)
+I'm Trying to Remember a 3D Game About Hosting a Party
+I'm a game developer nice to meet you all!!
+I'm an nsfw developer and this needs to stop, please read.
+I'm back
+I'm bored.
+I'm building a free web-based tool for creating pixel art and animating it frame...
+I'm considering making all my projects "pay what you want", is this a bad idea?
+I'm having Web Player issues
+I'm looking for a game - Help
+I'm looking for a game...
+I'm looking for a good game engine
+I'm looking for a good game that I'd like to play.
+I'm looking for games like 《maidsandmaidens》 that have a lot of breastfeedin...
+I'm looking for obscure bait and switch horror games.
+I'm not a game developer
+I'm not afraid of living in the matrix
+I'm participating in a Jam that ended today at 3 pm , but not result page works.
+I'm perplexed...
+I'm searching for other creators making abnormal art-games
+I'm sick of this "we publish adult games" spam everywhere
+I'm starting to think that these "trans" games are just pandering for traffic.
+I'm streaming my animation process!
+I'm thinking about...
+I'm working on a video game any title recomendations?
+I'm working on another game!
+I've noticed this on the oculus rift
+I've started Twitching...
+I. HATE. TALL. CARS.
+IBM ThinkPad 380E - Easy Setup - Diagnostic Test
+IDEAS FOR GAMES I CAN MAKE!
+IDEAS ON HOW TO MARKET MY GAME BETTER
+IF YO U CA N RE AD TH IS, YO U AR E OF FI CI AL LY AW SO ME!
+IM SICK AND TIRED
+IMGA GLOBAL: CALLING DEVELOPERS TO ENTER OUR COMPETITION
+IMGA GLOBAL: TWO WEEKS TO ENTER OUR COMPETITION
+IMGA Global: calling developers to enter our competition
+IMPORTANT - Australia and the bans/removals
+ISO Game taking in a sad girl
+Idea block
+Idea for Itch.io
+Ideal Room Sizes for a Top-Down, Pixel Art Styled Web Game 🌐🎮
+Ideas Threads
+Ideas for game dev projects kids can help with?
+Idle thoughts - Your 2 cents: As a developer how do you steer your community?
+If a game takes up little space it is not known that it is short ...
+If there is a game that officially supports Korean, do you provide Korean subtit...
+If you could make a itch.io fighting game, what would be your roster?
+If you distort a copyrighted song to the point its unreconizable...
+If you made or know of a game that was shadowbanned on itch or steam
+If you received a blank check to reinvent one of your previously developed games...
+Ignore Post
+Ignoring all my anger, Itch.io did one thing well (NSFW situation)
+Image Processing Server
+Images not loading with certificate error
+In game design, should gameplay or story be prioritized? How do you balance the...
+In light of the Epic Game Store situation plaguing PC gaming I would like to ask...
+In search for the name of a game :)
+In search of Laserix 2 levels
+In what ways does working with a music composer upgrade your game project?
+Indexing time
+Indie Game Contest
+Indie Game Contest Strasbourg 2016
+Indie Game Contest: win free full voiceover!
+Indie Game Dev Survey!
+Indie Game Marketing | Free Consultation for your Project
+Indie Game Media List
+Indie Gamers and Devs - I want to hear your story! 🎮 ✨
+Indie Games Market Today
+Indie Games You Missed - November 2019
+Indie Games YouTuber/Group
+Indie Marketing! 👍
+Indie RTS/Civ Building collection?
+Indie Revolution Expo
+Inspiration for games
+Installing Games
+Intellivision Day 2023!
+Interactive Story Play: K-Pop Contents
+Interest check: Everchanging chaotic world
+Interest check: Game about video games development MMO
+Interview on All Ages of Geek for Indie Game Development
+Interview with Dev of Tricky Tower
+Interviewing Boys Love Visual Novel Creators and Gay Focused Games
+Introduce your Games to the Community
+Introduce yourself!
+Introducing Cerulean Spirit Youtube Channel: Showcasing AI Indie Games!
+Introducing MYSELF
+Introducing TS indie Hub!
+Introduction to myself
+Introductions!!
+Invitation to the Experimental Game Workshop 2024!
+Is 1000 Views on a broswer game good?
+Is AI Just a Trend or Here to Stay?
+Is Android popular here
+Is Itch.io even safe to use anymore for anything?
+Is Working With A Fellow Game Developer As Partner for Social Media and Marketin...
+Is a 2D open world action game a good idea
+Is a silent protagonist good?
+Is adult games with real persons scanned with photogrammetry allowed?
+Is any of NSFW/Porn game out there, that actually is not sh*t?
+Is bitsy a quote on quote "proper game engine" ?
+Is donation only an option?
+Is fanfiction okay to post on itch as pay what you want?
+Is is Worth to Release Your Game on Steam to Reach Wider Audience?
+Is it a good idea to publish your prototypes frequently
+Is it better to publish your game as free or paid on itch.io. Which is more wort...
+Is it fair for creators to prevent my commenting due to criticism?
+Is it offensive to use 9/11 to market my game?
+Is it okay to recommend other peoples games on my page? :/
+Is it possible to appear in the search results on this site in a sponsored manne...
+Is it possible to customize your game page?
+Is it possible to host multiple 'comics' under one project to purchase separatel...
+Is it possible to publish any kind of unpublished software here?
+Is it safe putting your laptop to sleep in succession?
+Is my game a born failure because I use RPG Maker?
+Is nintendo's patent even enforceable?
+Is no one really going to organise a BUNDLE to raise funds for the earthquake vi...
+Is text to speech programs generative AI?
+Is there a community or discord for books and comics on itch.io?
+Is there a way to blacklist tags when searching?
+Is there a way to build PICO-8 games across multiple files?
+Is there a way to pay for something that is less than a dollar?
+Is there a way to prolong the peak?
+Is there a way to...
+Is there an option to raise my donation to the Bundle for Racial Justice and Equ...
+Is there another platform to discuss Indie Game Dev besides Discord?
+Is there any eu petitions against this bullshit censorship?
+Is there any way to not email my subscribers when posting assets to itch?
+Is there any way to search by "most popular over the last 60 days?"
+Is there any way to sort the items from the charity bundle by type/category?
+Is there good money for selling nice graphic game here on itch.io?
+Is there such a thing as a Itch.io game code?
+Is this Phishing email or genuine email
+Is using AI in game development wrong — or just the way things are going?
+Islands_Win.exe System Error
+Issue uploading my first game
+Issue with "This Page Has Been Quarantined" Warning
+Issues with downloading games
+It now exists a site dedicated to fight back Collective Shout and censorship
+It's not just NSFW content (+ some historical facts)
+Itch Algorithum
+Itch Developers Custdev
+Itch affiliate program update?
+Itch creates a new user account on Windows 10?
+Itch io game console?
+Itch is not running on google chrome
+Itch is self-sabotaging, legally and morally
+Itch needs to change to be taken seriously for FNaF fangames
+Itch vs Steam!!!
+Itch vs. Gumroad
+Itch.io (without the games)
+Itch.io Community Services
+Itch.io Gameplay Videos
+Itch.io Hopping Spring Bundle has opened submissions
+Itch.io Needs To Work Some More On Their Games
+Itch.io Notice 2. There are many distributors coming on Itch.io now.
+Itch.io Summer Bundle
+Itch.io Summer Bundle: Ending it all
+Itch.io and the industry
+Itch.io are seeking out new payment processors who are more comfortable with adu...
+Itch.io games every Wednesday on Twitch
+Itch.io is now blocking anything with queer content in it in the UK.
+Itch.io is the best!
+Itch.io protect my game from piracy?
+Itch.io's Recent Actions Now Reaching Mainstream Media
+Itch.io's wrongs and rights.
+Itchio E3 Meetup
+Itchio delisted and removed download to games i purchased?
+Items queue
+ItsNemo
+I’m Done. Thank You and Goodbye.
+JAR embedding help
+JOIN THIS JAM?
+Jail time vs no jail time
+Jak and Daxter: The Precursor Legacy System Update Analysis
+Jam problem
+Jam/Charity Bundle: Solidaridad con Valencia - Solidarity with Valencia- Solidar...
+Japanese game dev 日本ゲーム開発
+Join Our Discord for Bundle for Racial Justice and Equality
+Join a leftist developer discord!
+Join an itch.io Selects Bundle
+Join itch.io Facebook group.
+Join my smash Karts server!
+Join our subreddit made specifically for the Bundle for Racial Justice and Equal...
+Join the World Land Trust charity bundle 🌍
+Join the itch.io discord
+Join us in MELON GAMING GAMEDEV CONTEST! Don’t miss the chance to grab a tota...
+Join/Create A Bundle
+Joining the Game Dev Community
+June 8th to June 16th - Branching Corpses Jam
+Just Released this Awesome Update !
+Just a small thank you to itch.io
+KIRILLVP`s Discord server!
+Karma point&click adventure game
+Key Give AWAY, 1st in 1st served. Just for fun.
+Keys for Star-Slider
+Kickstarter Games Recommendation??
+Kk
+Know Where to Direct Your Frustrations
+Know any games like Last Seen Online or Sara Is Missing?
+LF> an RPG/Aventure game with actual game mechanics - anyone know of one?
+LGBT+ Creators Thread!
+LGBTQIA+ Video Game Recommendations
+Lambda Wars - Free RTS game inspired on Half-Life
+Launching my game on steam
+Lead Tracking and Call Routing Tools for Indie Game Marketing Campaigns
+Leafo what is your profile pic from.
+Learning Game Developement in 10 days (UNREAL ENGINE)
+Leave your mark in my game ;)
+Lessons Learned Shipping 12 Small Games in a Year
+Let's Count Together !
+Let's Play Artist CALLING ALL DEVELOPERS
+Let's Talk About AI in Game Dev
+Let's chat
+Let's connect together!
+Let's make jam about PLAYING games!
+Let's play of "This is the Way", by AB Gamer!
+Let's talk about copyright
+Lets Save The Ocean Bundle
+Lets get to know you!
+Lets share our games library!
+Letsplay for a letsplay?
+Levels?
+Library - Is there a way to permanently pull stuff from it?
+Life Simulator: your opinion?
+Linux (2GB)
+Linux beta
+List of shadowbanned NSFW games
+Little Ms Perfect
+Livestream development with you!
+Localization: By Myself or a Team?
+Logic behind AI auto-generating waypoints for enemies in tower defense
+Look Beyond Your Own Sphere Of Observation
+Look for an action adventure
+Look of the Browser 800x600 game
+Looking For A Few Games To Test Cross Device Install Tracking With
+Looking For Games To Play On My Channel
+Looking For Games To Play On My YT Channel
+Looking For Games to Review in YouTube Shorts
+Looking For Indie Devs To Interview On Podcast!
+Looking For Lets Players for my Dungeon Crawling Game
+Looking For Some Visual Novels To Play
+Looking for "Dream Daddy"-esque BL Dating Sim or Kinetic Novels
+Looking for 2d bundle
+Looking for 3D Assets for Your Game? Let's Collaborate!
+Looking for Adult games with small chest/flat female characters
+Looking for Artists
+Looking for Civilization like games
+Looking for Developers Who Might be Interested in Doing a Co-op Bundle.
+Looking for Games similar to Star Wolves series
+Looking for Games with Story and Progression
+Looking for Gaming Submissions for App Challenge ($25k Grand Prize; $5k for Best...
+Looking for Instagram friends!
+Looking for Jump Harem APK 0.53 on itch.io
+Looking for Minigames
+Looking for NSFW game suggestions
+Looking for People to Make a Winter Asset Bundle With
+Looking for Scion alternatives
+Looking for Survival Sandbox games to play
+Looking for Testers for My Mobile Game – QuickThinkPlay (Android)
+Looking for Twitter friends!
+Looking for Twitter or reddit followers
+Looking for Waluigi Games to link in my fan site
+Looking for Youtubers
+Looking for Youtubers to record my game 🎥
+Looking for a Game
+Looking for a Game and I Can't Remember the Name
+Looking for a JRPG that I forgot the name of
+Looking for a New Endless Runner? Check Out Koala Jump: Endless Adventure! 🐨...
+Looking for a Tower Defense game
+Looking for a bunch of indie startups
+Looking for a co-op bundle - [DIS]Assemble
+Looking for a couple people to help me please.
+Looking for a cute and artsy roguelike card game
+Looking for a fishing game that i played years ago SIMILIAR to ridiculous fishin...
+Looking for a free/cheap, non-horror game
+Looking for a game
+Looking for a game I forgot the name of
+Looking for a game I've seen on itch before
+Looking for a game that was on itch. ( found, called Frozen Soil, anyone know wh...
+Looking for a game to translate into russian for my diploma
+Looking for a game, but I don't remember the name.
+Looking for a game:
+Looking for a good hack and slash game
+Looking for a good story-based game, preferably not horror
+Looking for a mysterious 12 GB deleted christian game called "Rube World".
+Looking for a really cool rock paper scissor game and i forgot the name
+Looking for a really weird game that could be fun to read with a friend? Maybe a...
+Looking for a specific game - comfy dialogue based game about people's last days...
+Looking for a specific game i once found on Itch.io
+Looking for a specific porn game
+Looking for a survival horror demo I can't remember the name of and can't find!
+Looking for adult games with a flat/small chested female protagonist
+Looking for an LD chef game
+Looking for an older game
+Looking for an unique Idle game...
+Looking for any and all games to play
+Looking for audio engineers/composer friends.
+Looking for bloggers to feature your print-and-play game?
+Looking for character generator or help on developing a character
+Looking for cool card games! Which ones should I play?
+Looking for creators for the "There are Zines on Itch.io Bundle"
+Looking for developer.
+Looking for game
+Looking for game I played once years ago
+Looking for games about Sandpipers
+Looking for games about police brutality
+Looking for games by LGBT devs!
+Looking for games like this
+Looking for games on racial identity and food
+Looking for good browser horror games
+Looking for good visual novels
+Looking for help and advice for a project
+Looking for horror games that don't rely on jumpscares
+Looking for indie games for my YT channel. I want to play your games!
+Looking for kid friendly Visual Novels
+Looking for patnership
+Looking for players for a roleplaying game to test
+Looking for quick / quirky / fun games
+Looking for recommendations
+Looking for short horror games
+Looking for similar
+Looking for sites that review true indie games
+Looking for some cult classic/hidden gem horror games to stream
+Looking for some really weird horror games.. any suggestions?
+Looking for someone who can mentor me (A literal beginner)
+Looking for something cute and wholesome
+Looking for testers for a alpha release game.
+Looking for the Best Pixel Games to Feature in an Article
+Looking for the Scariest Short Horror Games!
+Looking for the title of a game I've played on here a few years ago and have for...
+Looking for this obscure editing website game?? Please help!!
+Looking for twitter followers
+Looking for what might be the 'Itch star characters'.
+Looking games for Youtube channel
+Looking to connect more with other developers
+Looking to connect with devs!
+Looking to help your game grow!
+Looking to show off your games on YT
+Lost in Searching - two nature-games: tree in space, switch into any nature obje...
+Low Analytics
+Ludum Dare 34 -- Theme: Slaughter
+Ludum Dare 46
+Ludum Dare Developers - I'd love to see your game!
+LunarMoon's Prattle Party
+MAUSTONG adventure video for virtual reality
+MIND LOOP CANCELED
+MUSIC: What do you listen to when you make your game?
+MY FIRST DOWNLOAD EVAAA!!!
+MY NEW GAME
+Mac or Windows for development? Looking for opinions!
+Made Up or Real Itch.io Games? Quiz for the Bored
+Magic Horror Games?
+Make a free demo of your NSFW games ;)
+Make a game about an Amendment of the US Constitution >>> get $5000!!!
+Make the gamed destructable blocky style.
+Making 2d Realistic Airline Plane game!
+Making a Game from Scratch
+Making a game without inspiration or even liking it
+Making a new charity bundle! I need someone to run the financials
+Making profits in my forbidden country.
+Making python automation scripts, what would you like to automate?
+Malware detected in a couple of my games?
+Manual for FPV Freerider
+Many game pages are missing discussion boards
+Mark your calendars because on May 1st it's time for AmsterJam!
+Markdown now available for community posts
+Marketing Guide for Indie Developers
+Marketing Ideas and Thoughts
+Marketing Your Visual Novel
+Marketing is hard, huh?
+Marketing to Non-Gamers
+Martial Word 2 "End of the Road"
+May I ask if you guys hire someone specifically to compose the music for your ga...
+May Spring Sale on Music and Loops For Your Game Dev Projects!
+May i know how turn .rar file into app?
+Me and my daughter`s project.
+Me olvide de el nombre de este juegaso
+MechApocalypse: Proving Grounds #notGDC
+Medium
+Meet P.A.R-T
+Meet our team
+Mega Bundle Game Assets License
+Mega Man 2 Synth Covers & 3D Playthrough w/3DSEN
+Mega Puzzler Bundle
+Mellow vibes
+Member Of War stuck on loading screen
+Menerick's Guide To Getting A Girlfriend! (Absolute Guarantee!) [No Drugs Or Sel...
+Merch for game devs! Partner with us!
+Merry Christmas
+Merry Christmas everyone!
+Metroid cosplay
+Metroidvania Jam ($100 Cash Prize)
+Microtransection and the Real Life experience based on that model!
+Midwest Indie Developer Conference Invitation
+Mindfulness and meditation
+Mindustry 협곡 맵 출격 불가 관련
+Minecraft search party for lost version.
+Minotaurs - Scifi shooter
+Missing Game Developer
+Mixed feelings in marketing research on itch.io
+Mobile games on itch
+Moderators hangout spot
+Mods won't work
+Money Left on the Table
+Monster Girl Island
+More Downloads than Views
+Most Popular Protagonist?
+Motion based games?
+Motivations and Innovation
+Moved updated (Windows warnings and security of my software)
+Multi-game economy and shared currency
+Multiple Projects, Or One At A Time?
+Music Needed
+My 2 videogames un-published cheats-codes
+My Complaints (not related to game)
+My Game dosnot show up in search
+My Game got on TV :) - Hallowed Candy
+My Gamedev Journey thus Far
+My Hero Dating Simulator missing?
+My Indie Conversion
+My Introduction/Hello Itch.io
+My Itch Game Is In The Top 100 Of The Year On IndieDB! Please Vote!
+My JRPG MMO needs engagement(help me)
+My Name is Xeo
+My cool new website(totally made it)
+My first game in 2019!!! Dance Dance spy computer
+My first project is now ready
+My first week on itch.io with LandR
+My game asset character don't appear in the store
+My game development journey
+My game disappeared from searches!
+My game does not reach public
+My game doesnt appears on search results!
+My game jam is not showing up in "Upcoming jams"
+My game made in godot
+My game was done yesterday but i cant get pip nor pyinstaller work to upload my...
+My games are back!!!!!
+My indie horror Youtube channel :)
+My new Website with Construct games and templates using itch.io widgets
+My new free 2d game seems to have no appeal at all
+My newest videotutorial series about "PICO-8" announced!
+My start off gaming channel =)
+My twitter account got suspended for sayinh f++k Russians
+NEED HELP - Russian and German Weapons list made in 1960 - 1998
+NEW GAME COMING SOON!
+NEW RPG Music Kit - Friday Release Sale!
+NEW UPDATE WITH THE PROBLEM.
+NEW YEARS 2019 GAME JAM! PARTICIPATE!
+NSFW Games Deindexing and Digital Fairness Act - Let's do something about it!
+NSFW Shadowban
+NSFW reindexing process
+Namdh Community
+Name My game
+Name your favorite game
+Names for a Game Studio.
+National Epilepsy Awareness Month game jam
+Naval battle RTS/Wargme with dragons and sea monsters game concept
+Need An Idea for A Game
+Need Help Brainstorming Ideas for My Game
+Need Help Surveying Video Game Writers
+Need Help VR Game (Sky Islands)
+Need Help for My Thesis: Competitive Game Jam Impacts
+Need Help!
+Need a Medium
+Need feedback
+Need for Dragonbones
+Need free advertiser
+Need furry artist
+Need help choosing screen size for pixel art game
+Need help finding a game
+Need help finding a game, video included
+Need help finding this interactive fiction?
+Need help for publishing games on steam
+Need help getting ideas for one of the games on the Pizza.co page
+Need help to find a game.
+Need help with my master thesis - Spectatorship in esports survey
+Need help with my study on Roguelites
+Need more sace to upload in order to sell game.
+Need some inspirations and ideas
+Need to find a game I played here..
+Never heard of itch until 5 days ago
+New
+New Art Outsourcing Studio from South of Brazil
+New Game Dev Youtube Channel with tutoriaos and more
+New Game Idea
+New Game Jam !
+New Game for Halloween Under Development
+New Here – Looking for Indie Game Recommendations!
+New Music up on Youtube!
+New Project
+New Unity 2D Challenge
+New Youtube Channel
+New bundle: Ukraine Help Bundle
+New bush strip in Italian
+New cloud storage specifically for indie developers and creators
+New content guidelines dropped. They're BAD.
+New creative tools to redesign the Pic?
+New game design challenge (not on itch.io)
+New game in the works!
+New game jam (not on itchio) -- 2024 LifeLove Game Design Challenge: Connectedne...
+New games and monetized youtube channels
+New indie game website launched
+New itch app
+Nice but salty
+Nice to know
+Nice to meet you, Kuma, who is leading a YouTube group.
+Nieces & Nephews! Tell me about your game!
+Night Donut Dash Challenge!
+Night Donuts strange bug fix announcement.
+Night Donuts: A Spooky Treat for Halloween Night! 🎃
+Nightmare Testing
+Nikania Project
+Nintendo Community Fangames Convention 2020
+Nintendo Community Fangames Convention 2023 Announcement and Guidelines
+No Man's Sky
+No Trees after installing on PC
+No more excuses please
+No one can see my page or games, they get a 404 page error instead! Help!
+No puedo instalar el juego en MAC OS CATALINA
+No sells here
+No-one cares about my game
+Non commercial free game
+None of your games work
+Noob Questions
+Not at GDC but near GDC #notatgdc
+Not in an english based country, what to do? (Itch censorship)
+Not moving ahead
+Not showing in search
+Not so related, but vote for a name for my queen ant and her army of workers!
+Now in Top Sellers!
+Now that we're here, what can itch.io do to save both itself and the people who...
+Noxus Games Studio: Coming back? Maybe...
+Nuking your website to "protect" a small percentage/non-existent age demographic...
+ONLY HOURS LEFT - Game Dev Flash Sale on All Action, Suspense & Horror Music Pac...
+Obligation to pay for the update
+Obscure retro games on YouTube
+OctoPackSample Project Steal bug
+Off topic category?
+Offer a suggestions!
+Oh my
+Ok can we just talk abt encanto musicals for a sec-
+Old style strategies?
+On Hold
+On the recent controversy: An argument for level heads
+OnTheTop GamePlay Youtube
+Once again, I am #notGDC
+One Shot Rewind (FanGame)
+One discord for all the jams
+One small question
+Only 14 Hours Left To Save on the Weekend Flash Sale on All Royalty-Free Action...
+Oops! All games deleted.
+Open 64 Bits? More of a question or questions.
+Open Source Unity Games?
+Open World / HTC Vive / Rental or Pay per play
+Opinion on People Archiving Games?
+Other drones available
+Other sites
+Other writers / artists for our own summer bundle [Book] [Bundle]
+Otome RPG - help me find another game!
+Our first computer game
+Our game’s not getting any players and I’m totally stuck
+Our plan was to post our games here but...
+Outfind Games- Find your next favorite game!
+PAX East?
+POST YOUR TRAILER
+POV for training purposes only
+PROMOTION - LOOKING TO PROMOTE YOUR GAMES
+PSA/Rant/Vent : The gross misuse of the term "Roguelike"
+PSA: Beware the "try my game" scam
+PSA: Everyone in the state of FL will get tax because of the new law
+PSA: Payoneer 12 month inactive fee
+PSA: Use Revolt instead of Discord please!
+Page Design
+Papercut studios
+Paranormal Buddies by Christopher Laino is missing ??
+Paratropic game erased all downloads?
+Pause Button Rift S Touch Controllers?
+Pay-what-you-want annoys me! What do you guys pay for free assets?
+Paying for a game or donating?
+Payment of Games!
+Payments
+Payout Problems, 100+ days and have already sent several emails trying to resolv...
+Paypal alternative
+Paypal payment creation error
+People Selling Other Peoples Art
+Perfecto - The game! Our first Game
+Permanent bundles?
+Petition for a charity bundle - how to request?
+Petition from aclu Join it!
+Petition to Itch.io asking them to stop targeting adult creators!!
+Piano visualizer - Linux support and minute delay with midi controller
+PicsX4
+Picture issues on game pages
+Pinterest No Longer Likes Itch
+Pitch your game: "One line to lure them all"!
+Pixel Art Self Portraits!
+Pixel artist
+Pizza.co will officially be discontinued
+Place to share ideas for mini projects?
+Plans
+Platform Exclusivity Debunked essentially.
+Platformer Bundle
+Play Local Multiplayer Games Online: A Review
+Play in browser tag?
+Play my Game / Games for Youtubers
+Play my game and get money for reviewing it
+Playable Fantasy Races
+Playing all Racial Justice bundle games - My descent into madness
+Playing your games now!!
+Please Add Unturned To The Games List Please
+Please GUYS
+Please backup your stuff
+Please does anyone know how to upload an rpg maker mv game on this site
+Please forcibly change the page of sprunki to be a forum section
+Please give me a strong answer regarding this work issue
+Please help me find this IF
+Please payout
+Please play my game!
+Please recommend me BL/gay games to play (furry with human MC is fine too!)
+Please recommend me a similar game to Isekai Demon Waifu
+Please recommend some horror games that fit my description
+Please, help me find a game
+Please, help to find a game in itch.io
+Pokemon Go
+Politically Conservative Creators?
+Pomodoro/focus apps for browser or Linux?
+Popular Games
+Popular, popular, popular...
+Populating multiplayer game servers
+Portfolio
+Portuguese Translation!
+Possibilities of AI
+Possible Genre Concept
+Post Your favourite game
+Post a clip of YOU playing one of YOUR OWN games
+Post a gameplay video of your game!!!!
+Post any creations that imitate the PlayStation 1-3 graphics
+Post your favourite Itch music packs
+Power module
+Power-ups!
+Pre-Purchase Building & Pest inspections
+Preliminary survey
+Prepare to test your luck
+Prices for games going up
+Pride???
+Priest Quest
+Problem starting Low-Fi
+Problem with game
+Problems I'm having with 3D modeling assets for my game
+Problems with HyperRogue on Linux
+Problems with RealFlight controller?
+Profile picture origin
+Programmer searching for team/project/any collaborative fun and development
+Progression Systems in FFXIV
+Prohibited or allowed to publish ?
+Prolème de validation d adresse email.
+Promote Your Game
+Promote your Game Assets here!
+Promote your game
+Promote your game here!
+Promoted Games
+Promoting games cheaply - what worked for me
+Promoting really laid back game
+Prosocial Video Game Design Challenge: register by March 20 2020
+Providing some inspiration for Global Game Jam 2023
+Psychological/Thriller game with no jumpscares?
+Public Domain Jam
+Publish on Play Store
+Published Several Unity tutorials ON YOUTUBE this week
+Publisher in 2024?
+Publishers
+Publishing UE 5 to HTML
+Publishing stories on Itch - A good idea?
+Purchase
+Purchase but not Download
+Put my Original Character in your game and get a shoutout
+Put your games in NSFW
+Putting a hold on the Stream Reviews UPDATED
+Putting a multiplayer game server online
+Putting out a card game on Itch?
+PyGames - Build an open-source game and submit by April 17th for $12.7K in prize...
+QUESTIONS
+Quality Versus Quantity
+Que le añadirias a Flappy Bird?
+Question
+Question About Voice Actors
+Question about Money
+Question about browser game resolution
+Question about copy protection and piracy
+Question about the compactness of Galois groups
+Question for players - How important is a video?
+Question for whomever.
+Question on how to search games.
+Questions about VNs and Story-Focused games
+Questions about mobile games
+Questions about the definition of a Cartier divisor.
+Questions for Xenotake, what and where is it and how to get it.
+Quick "can't remember which game" question
+Quick Question
+Quick beta testing anyone?
+Quick grab sale on all of my 3D models
+Quick tip about using GIFs as project thumbnails
+Quickly, tell me what you are listening to! (Music sharing thread)
+Quickscope, a free new game development platform
+Quippy Owl is #notatGDC
+Quote of the day - Share here the quotes you love.
+REMOVING ALL GAMES POSSIBLY IN VIOLATION OF DTRPG EXCLUSIVITY CLAUSE
+REQUEST - Searching a creator to develop a a game that no longer exists
+ROAST MY GAME
+RPG MAKER MV Google Play Store Help Needed
+RPG Player Survey (pretty please with a cherry on top?)
+Raft Bug spawing in room on Radio tower can't get out
+Raft Wont Launch after Resolution Screen
+Random games screenshots
+Random post
+Rating your own game
+Ravee games does anyone have a backup of ravee games.
+Ready For Ludum Dare 44/
+Real Time Strategy Game mixing all the great mechanics
+Real-world money considered harmful, I'm buying BTC, ETH, USDT
+RealFlight control sticks switched left with right
+Really Old Turok Oblivion Documentary - Anyone know where I can find it?
+Rec me some games for kids?
+Recently Released my First Game as a Student: CHRONO #notGDC
+Recomendations for light web-based game creation software?
+Recomended pages to publish?
+Recommend Games (Any Genre)
+Recommend me some games
+Regarding featured games
+Relación Artistico/Comercial en Diseño de Videojuegos y Música
+Release Celebrations are still going 85% discount !!!
+Release Platforms
+Remember the days? +some facts.
+Remember to support common quit triggers
+Remote controller from Mavic 2 Zoom
+Removing games from the shop AND our libraries?
+Repeat notifications of new follower
+Reporting Piracy.
+Request Thread for YouTuber Let's Plays
+Request for Participation in Thesis Survey
+Request for opinions on the development of indie video games
+Requesting opinions - keyboard mapping
+Research on Game Devs (CircleCI)
+Researcher, looking for independent game devs (preferably based outside the US/U...
+Resident Evil: Dead Island - about a teaser
+Resource/Link compilation for organizing against censorship
+Retro Elder Scrolls clones made in modern day? Does that exist ?
+Reverse sales: let's make it a thing
+Review Copies for the 2019 Nebula for Game Writing
+Reviewing is broken.
+Rhythm Rougelike
+RimWorld
+Roblox-style Creator Economy Features for Indie Games
+Roleplay
+Rules and reporting
+Run FPV Freerider on Raspberry Pi 4
+Running Simulator Fan-Art Contest!
+Running bundle - where to share?
+Running out of time...
+S.T.A.L.K.E.R.: Silicon Valley
+SCP Game Assets?
+SHARE YOUR ANALYTICS
+STREAMERS... GET THIS GAME FOR THE EXTRA LIFE STREAM!
+STRELETSKIY
+SUGGESTION
+SUPERHOT LORE
+Sacred Blade has a new huge update all bugs have been fixed! New battle system
+Sad Satan
+Sale has not visibility!
+Sarvente is bored
+Scariest/Creepiest Games You've Ever Played?
+Schaut euch bitte auf mein Profil um
+Sci fi military games
+Scratch is unfair
+Scream 6 - about trailer
+Screen recorder
+Search for a tiny space exploration pixel art game
+Searchin one kind of nsfw games (don't read if you don't play nsfw game)s
+Searching Long-term jams for submitting already finished games
+Searching Someone to play itch.io games
+Searching a game "Sushi Cat" - please help
+Searching a game I played 2 years ago
+Searching for a game on RPG Maker!
+Searching for a specific game [PLEASE HELP!]
+Searching for certain adventure island game
+Second interest check: Everchanging chaotic world (more detail)
+Secondary System Analysis: Legend of Zelda
+Seek & Destroy Games and Community Input
+Seeking Advice on Improving Cooling for My PC Game Setup
+Seeking Fresh Ideas for 2D Game Mechanics (Solo Beginner Developer)
+Seeking Input / Interview
+Seeking Your Thoughts on a Giveaway Idea for My Game
+Selling 4 copies of your game at once (pack of 4)
+Selling source code for side income?
+Selling the game
+Send games
+Sending link to unlisted Jam
+September Bundle
+Seth S. Scott & Perfect Hat #notGDC
+Shaders
+Share Your New Games or any other published asset, tool, or comic!
+Share the FIRST and LATEST game YOU have made!
+Share you favourite Game Development Tool / Recent Project / Future?
+Share your assets here with the rest of the community!
+Sharing game
+Sharing is caring : sharing your games with each other and get feedbacks
+Sharing my BFAM Show
+Sharing wishes of this year!
+Short questionnaire on game taste and preferences
+ShotOut Club
+Should I make my game paid?
+Should I solo dev?
+Should i make a new youtube channel for itch.io plugged in
+Should this game be 2D or 3D?
+Show me Your Game Titles
+Shut down your site you worthless Traitors.
+Side quest itch.io games
+Silly Games
+Similar game to old Sadists
+Simulations - RPG
+Since when you started working on itch
+Site has changed
+Site went down again?
+Slay Your Tasks with a Gamified Todo/Productivity System
+Slow progress on game development
+Small discord server for unity developers
+So Hard To find Dev Jobs For PC games its all [Mobile,Crypto ,VR/AR]
+So I had brain surgery
+So I'm trying to find a farming game...
+So according to the new standards, itch would ban the bible.
+So as a new AVN developer, do I even bother?
+So how did Cave Crawler get so popular?
+So many restrictions the site sucks and will die.
+So, I'm making a stupid meme game
+So... Eroraen Novels... NUT Worthy? Or nah?
+Social Research on itch
+Social networks
+Solidarity with Belarus bundle
+Some considerations about MediaKit (Or how to produce promotional material for y...
+Some of my brief articles on enigmatic (and great) authors. Feedback welcome!!!
+Some of the users here are missing the point about the recent news
+Some questions about demos
+Some thoughts on the current NSFW controvesy
+Somebody changed my avatar
+Someone can remember this game?
+Someone downloaded my paid asset twice, but only paid once. How? Why?
+Something I Quite Want.
+Something outrageous about MOST NSFW Games /!\
+Sonic CD
+Sorry, we can't accept your purchase at this time due to the updated 2015 VAT re...
+Sort by most played this month?
+Sort the court
+Source Code Included?
+Space Game Like Freelancer
+Spam
+Spamish referrer links in stats
+Special Vote [Computer Edition]
+Specifics of "adult content"?
+Spooky Trivia Quiz
+Stardew Valley
+Stardew Valley + Convenience Store
+Start after download
+Start game download on desktop client from the website.
+Starting an Itch.io podcast, looking for co-hosts and guests
+Status of Engine Submission
+Steam has NSFW that you can look up but not here....
+SteamGreenlight lockdown?!
+Steams Class Action Lawsuit
+Stone little help Needed
+Stop Motion Game Jam! (April28th->May12th)
+Stop the censorship - need to support Fair Access to Banking Act (Senate bill S...
+Stop with the radio silence administrators! we need some kind of communication o...
+Stranded in Space by Wildman
+Strange Bounds Search
+Strange view to download ratio
+Strategies to a game, in a PC that will die very soon
+Strawberries adventure(demo)
+Streamer Ready For Dev/Indie Games.
+Streaming and Feedback [games/devs wanted]
+Struggling figuring out what a character is
+Student Game Award with Autodesk is Back for GDWC 2022!
+Student Thesis About Web Games ( 4 min ) 💻❤️
+Studio names?
+Sublaminar message (Opinion)
+Submissions for Bundle for Reproductive Rights
+Submissions for the itch.io Lunar New Years bundle are now open!
+Submit your game to Playdate 2017! (playable prototypes welcome)
+Subreddit dedicated to the Indie bundle for Palestinian Aid
+Suggest a game
+Suggest a name for our game!
+Suggestion for game devs
+Suggestions from Chinese people (smiling face)
+Suicide prevention with games
+Suing people for defamation in Australia
+Summer Cool-Off Bundle By Bundle Everywhere
+Super FESTival 2023 - A Virtual Indie Game Festival (Nov 20 - 26)
+Super Fight: Street Match!
+Superman v Batman
+Support HR 987
+Support My Game
+Support for payment/receiving methods other than paypal and stripe?
+Support your streamers and cross promotion
+Survey 2021: Game Testing Trends
+Survey: Academic Research on Game Jams
+Sus thoughts!! Caution
+Sweet Farm Bundle!
+Syahata A Bad Day APK Where to download latest version
+System error when trying to open a game? Please Help!
+System requirements
+System safety when downloading
+TH3_GAM3.MSI Community
+THIS IS 100% not aproved for kids (i made this but i gonna add ornage stuff to i...
+TOP Best Games That I Personally played on Itch.io (MONTHLY on YouTube)
+TVitch - VIDEOs of games
+Tabletop Games
+Taking on games to post on YouTube!
+Talking about games just for fun
+Talking about what I will do on itch.io
+Tax interview vaild status did'nt changed only show onfile
+Teaching With Video Games
+Teasers are a nuisance
+Tech Memes
+Tech Valley Game Space Streaming Ludum Dare 40 Games!
+Tekken 7 and Melty Blood: Type Lumina Secondary Systems
+Tell if you can buy it (not an ad)
+Tell me a "must-have feature" in an FPS game
+Tell me the most repulsive (1-star) games on itch.io and i'll play them
+Terminal Special Effects (Demo) Jam
+Textbook recommendations for game design
+TextureWorks: Artificial Intelligence Based texture Synthesizer
+Thank you Itch.io !
+Thank you Itch.io for 4,300 views on Vengeance #notatgdc
+Thank you all for helping me make compendium what it is, but I still need develo...
+Thank you everyone
+Thank you itch.io
+Thanks Itch didn't expect much but got loads in return
+Thanks for all COMMUNITIES ooo oh yea spinning oo yea
+Thanks itch.io for your great backend #notatgdc
+The "Games Against War" charity bundle is OUT NOW!
+The "Survivors-like" genre ("Vampire Survivors"-like games) is much older than t...
+The "help each other decide what game to buy" thread
+The 4 month journey of a (mostly) CC0/open-source developer.
+The Anger is justified, but please direct it in a useful direction
+The Bedroom Programmer's Jam
+The Best Indie Games You Missed in 2019 [VIDEO]
+The Censorship of NSFW Titles is Disgusting
+The Development Of Online Role Playing Games
+The End Of An Era
+The Erotica Ban will be the Death of Itch.io
+The Fake Portal: A Database Service For Us Indie Devs Like Wiki
+The Finch Resource and Asset Package
+The Frustration Files!- Small community dynamic!
+The Future of Night Donuts
+The GODOT 2MB CHALLENGE is here!
+The Game Audio Company - full service audio outsourcing
+The Game Development World Championship 2020 Winners!
+The Game Development World Championship 2021 Awards!
+The Golden Blobs - submit your game
+The Headmaster - looking for a related game / recommendation
+The Last Roman Village - 50 FREE game copies giveaway
+The Last Roman Village - 50% OFF
+The Last Roman Village - 60% OFF
+The Missing Cure Give Away!
+The Pasta Studios
+The Pawn - Unable to climb up from ledge
+The So... But... Game
+The SpongeBob Game
+The StiK Community for Coders
+The Superstring Journal - Insight from AAA publishing for Indie Development
+The Third Party Website Issue
+The Three NOW IMPROVED
+The Wholesome Games List
+The Zero Budget Game Marketing Manual - Your Questions Answered!
+The anti visa mastercard petitions are doing well
+The beginning has been made.
+The benefits (and pitfalls) of playtesting
+The censorship reaches far beyond video games
+The countdown to the launch of "Bacci and the Ducklings" is about to end ...
+The discord going crazy
+The games are back in town!
+The influence of far right on indie games communications
+The itch.io site is used in latest Discord Phishing
+The oldest daily driver!!
+The paccar truck pack question.
+The perils of extreme procedural generation - Or how 100 quadrillion ascii faces...
+The story of one indie game
+The very best of the Bundle for Ukraine!
+The very best of the Racial Justice Bundle!
+The world is ending, Itch is about to collapse, all developers brace yourselves...
+There Is An Imposter Among Us (RP)
+There are still the users who wrongly download PC games on Android/iOS
+There is a parasitic thief selling lazily done smutty hacks of free indie games...
+There should be an itch.io iceberg
+There's no point in fighting
+Theres this one called "Gift"
+They cant tell us whats not allwaed, but watch out if you break any of the rules...
+They just removed Mouthwashing from this site. They going from an inch to a mile
+Thing I have been thinking about for a while
+Things I've Learned from Game Dev
+Things you've learned / picked up in the last week
+Thinking about doing Localization for independent games.
+This Thread is no longer active! Will get back with a new one soon! Thank you al...
+This forum...
+This is how a true game dev warrior starts the morning ⚔️☕
+This is kind of a noob question
+This is where the earning from my games can go:
+This video had to be made – Censorship, platforms, and hypocrisy!
+Thoughts on keeping separate 'personal' and 'professional' itch accounts?
+Thoughts on the stuff I'm Passionate about
+Thousands of NSFW Creators Just Lost Everything
+Three Big Questions!
+Tide Systems In Games?
+Time of Publishing
+Tips : Avoid false positives with anti-viruses and Godot Engine 4 exports
+Tips for promoting in development games
+To Visual Novel Game Developers.
+To all Artist
+To all MegaMan, Shovel Knight and other great indie games lovers...
+To have or not to have DEMO?
+To what extent is AI-generated art acceptable in Ren’Py games?
+Today the site is slow of is just me?
+Too many files in zip
+Too many game jams?
+Too much NSFW content on the front page?
+Tools Tools and more Tools!
+Top Sellers - Average number of downloads
+Topic9872
+Tourist space game
+Toxic indie developer on here I guess
+Tradução de Beyond New Horizons [PT-BR]
+Trans Bundle to compete with h*gwarts l*gacy?
+Translation
+Treasure of Nadia
+Trees, Plants and Grass - Discount Bundle 21 hours left
+Trouble in paradise
+Trying to find a 18+ Pokemon/Nexomon Extinction-like game
+Trying to find a game
+Trying to find a game I played before but cannot find it
+Trying to find a game I played years ago
+Trying to find a game, can someone help me
+Trying to find a itch.io game
+Trying to find something again?!
+Trying to remember the name of a "bluffing" detective game
+Trying to remove my game.
+Trying to switch into game dev — go self-taught or pay for a course?
+Tube tycoon wont work please help
+Turn off pageless scrolling
+Twine Game Virus / Worm going around
+Two Facts and a Lie about Yourself
+UE Creative Event Online
+UK region ban for NSFW content
+US-based AR Game Creators Needed
+USDC stablecoin as an alternative to Visa/Mastercard?
+UX designer for games. An article about the war, triangularity and game design.
+Udemy Recommendation?
+Ukraine Help Bundle
+Ukrainian Devs to Support (Please contribute to the list!)
+Ultimate 300 Bundle Is Now Accepting Submissions
+Ultimate Elite Bundle Submissions OPEN!!!
+Ultimate Revivor Bundle
+Um....hi um Can anyone recommend some horror games with combat mechanics?
+Unable To Reduce CPU Usage While Gaming
+Unable to purchase Assets via PayPal
+Unable to remember the name of an old PC game (3d Action)
+Unforgiven : Shattered Souls
+Unique Game Ideas
+Unity Dev. tricks
+Unity HDRP project lags in fullscreen
+Unity collab.
+Unity developers, what are your plans after the last annoucement?
+Unity game engine will become a virus, change engines now
+Unity games crash after the Unity logo
+Unity, Unreal or other? Which do you use?
+Unknow Clock - Community forum story
+Unlock this topic.
+Unpopular opinions thread
+UnrealAssets - Launch
+Unscratched ITCH i've had for a while now
+Update Add English soon Game Tale of REN ~ [Searching for HEART droplets] ~ .
+Update On Feedback
+Update on your names in my game
+Update or re-release?
+Uploading a HTML game?
+Uploading an unfinished demo
+Username or "Studio name" for itch.io
+Users who stupidly download PC games on Android/iOS
+Using AI like deepseek as a goto assistant for some help.
+Using The Itch.io Application
+VAT problem
+VR Experience Gore
+VR discussion - "Desktop-VR-Shooters" first person shooters with mouse/keyboard...
+VR hardware with no subscription/internet/spyware requirement?
+Very thankful for everyone who has played Subtext #notGDC
+Video Games music composer
+Video dev log length preferences
+Video game development as an expressive art therapy and stress relief.
+Video games can also be cinema
+Views : Download / Views : Purchase ratio
+Visits collapse
+Visual Detective Novel Game with AI-powered NPCs
+Visual Novel Design Project | Help us create a better game through this research...
+Visual Novel Market
+Visual Novel Survey to help out two game devs :)
+Visual;Conference 2018 call for speakers is open!
+Vn Game Devs When They Turn 18 Or 20
+Voting in Jams vs. game ratings?
+Vs Frank V2 UPDATE INFORMATION
+W-8 form
+WANDERING KNIGHT
+WARNING
+WAVES SIMULATOR Should I continue working on this game?
+WHAT RULES ARE THERE BY CREATING A TRAILER?
+WHAT TYPE OF GAME ASSET SELLS THE BEST
+WHAT WILL YOU DO, IF EARTH WAS BEING ATTACKED BY ALIENS?
+WHY DID THE MISSILE GO "BEEP BEEP" INSTEAD OF "BOOM" WHEN IT LAUNCHED?
+WTF are these Websites???
+Wagwan with these fnf kids in general
+Want some funny local multiplayer games ?
+Want the author to increase the Chinese language
+Want to test new android games?
+Wanting to create a Pokemon clone, but not good at coding, need advice
+Warning: Watch out for people claiming to be "Promoters" or "Publishers".
+Warriors Fandom Community
+We Are Changing our Ways (Changing Develpoment)
+We created a site for Indie developers to promote their content
+We love small devs ❤️ A cooperative bundle of 57 games from 26 small game de...
+We used AI to voice characters in our visual novel. What do you think of this?
+We want to play your games! Now!
+We want to provide you with the game graphic assets you want through the questio...
+We're giving our revenue share to developers on Black Friday
+We're hiring: an award winning studio from the Netherlands
+We've a YouTube Channel !
+We've launched our Indiegogo Campaign!
+Weird Game Music
+Weird, Surreal and/or Trashy games - WANTED
+Weirdest Game Crossover Ideas?
+Welcome New Creators/Gamers!
+Well he was bored
+Well, seems that the villain of our age finally has a name
+Well; Master Card and Visa have to back off for now...
+Were do i see my steam keys that i got from greenlit games here?
+What *Adventure* game topic you like more, and would be happy to buy and play?
+What Are You Thankful For?
+What Do Developers Expect from a Video Game Composer?
+What Happened to DR.Smiley's fun house?
+What Happened to MSFS 2020, FlightSimSquadron ??
+What I'm up to... mostly and stuffs... (Adult Only)
+What Impact Do Lets-Plays Have on Engagement?
+What Is The Best Way To Promote Your Game
+What Itch.io Game Would Rock on a Real Arcade Cabinet?
+What Kind of Games Do You Play On Your Phone? (Research)
+What Makes You Click ?
+What Makes a Game Streamable?
+What Makes a “Perfect” 5-Minute Arcade Game?
+What NON-AI Art Assets Are The Devs Here Looking For?
+What RPG games do you recommend on ITCH?
+What Should I Name my New Project?
+What Skills Do You Need to Master Technical Illustration Design?
+What TTS Do the annocers use?
+What Would You Want in a Game Engine?
+What about license of free games?
+What are good platforms to write devlogs on?
+What are some game recommendations for 'Creepy Tale' fans?
+What are some good game jam games?
+What are some of the best looking game pages you've seen?
+What are some ways you've "revived" your game after a bad launch?
+What are the best video games on itch.io?
+What are the worst game ideas you can think of?
+What are you playing this week? [Nov 30, 2015]
+What are your expectations when buying a game on Itch ?
+What are your favorite games from the California Fire Relief Bundle?
+What are your favorite programming languages and engines you use for game dev?
+What are your game dev journeys? - The Creation of Bullets Come Back
+What brought you (or who) the most joy this past week?
+What can happen if you stop games development?
+What can we, as devs, do to help Itch.io expand?
+What cloud storage are you using?
+What colour is your Bugatti?
+What counts as "doing well" on itch.io?
+What counts as gore, exactly?
+What discord servers should I join as a new game dev
+What do you expect from a 5 dollar game?
+What do you like in a dating sim?
+What do you listen to while working on your projects?
+What do you think about the Gameguru engine?
+What do you think about this design?
+What do you think about using rain and other weather effects in video games?
+What do you think io games ?
+What do you think of episodic video games?
+What do you think of the role of AI in game content generation?
+What do you think of works with anime IP elements?
+What does it take to get your game featured or to appear in fresh games?
+What exactly puts a game in the "Popular" section?
+What free games would you recommend to someone who's new to gaming?
+What game engines are you all using?
+What game made you think "That's it! I want to make games!"?
+What game-making tool brings you nostalgia?
+What games are overrated
+What happens when your username is the same name?
+What having no life does to a person
+What helps you decide to purchase a game?
+What if
+What inspired you to start creating games, and how did you get started?
+What is "add to collections"
+What is .io??
+What is Going on with these Forum Topics at the Moment?
+What is NEMESES? | CLOWN HORROR
+What is Tabletop RPG? Reasons for You to Play Today
+What is a attractive about GameMaker?
+What is a game you would want to see?
+What is a good platform to blog about my game development experiences?
+What is considered a good view/play rate?
+What is everyone working on?
+What is te best way to promote my game (im broke)
+What is that white bar?
+What is the bare minimum that my game should include? (Credits, options, EULA, e...
+What is the best Shooting game for iPhone in 2020?
+What is the best games to look at if you're a fan of simulations?
+What is the best social media site to market your projects?
+What is the best software for a complete beginner programmer to make a game??
+What is the correct way to commission a work from a digital artisti?
+What is the difference between the packs GOF 1.2, GOF 2.0 GOF 2.5 ERAS ect...
+What is the effect of 2D graphics in terms of interest and sales of a game?
+What is the most active community to talk about my game in progress?
+What is the waiting time for accepting game on IGDB Database?
+What is the worst thing that happenend to you while creating a game/software?
+What is your art style?
+What is your favorite game manual and why?
+What is your favorite game?
+What is your favorite game? and Why?
+What is your game developing "routine"
+What keeps you engaged with a game?
+What kind of assets for a 2D metroidvania are missing?
+What kind of character would YOU be- Small community dynamic!
+What kind of game would you like to play
+What kind of games do you like?
+What made me want to make games
+What makes sense of chara in bad time trio?
+What means "itchio" Where did it comes?
+What mobile games help you calm down?
+What music you fantasy game devs mostly need?
+What or who inspired you to become a Game Developer or content creator?
+What podcasts are you listening to?
+What should I do this morning?
+What should I do to get my game streamed/reviewed?
+What should I do with this special demo for my game?
+What species should my games main character be
+What the Flame Reveals
+What was the first 'planet defender' game?
+What was the first game on itch.io?
+What will the future look like for the Photoshop plug-in Stable Diffusion?
+What y'all actually need?
+What you would like to have?
+What's a Retro Game? Asking for Article Readers
+What's an unpopular opinion you have ?
+What's the best form of payment?
+What's the best mindset to have in this situation?
+What's the best way to credit someone?
+What's the better option for publishing a game?
+What's the inconvenience of using itch.io?
+What's the most general form of "not being a principal ideal due to singularity"...
+What's your best advice for people looking to join projects? What worked for you...
+What's your experience on priced games solely put on itch?
+What's your favorite NFL team?
+What's your main occupation ?
+What/Where is the best place to upload royalty free music for indie games/gamjam...
+Whats in progress for you?
+Whats that game were you are cooking shush kabobs on an train and find a bird tr...
+Whats your least favorite Engine ( or language ) and Why?
+Wheelchair like movement in VR games. Controversial?
+When Flash goes away in 2020, what games/animations are you going to miss?
+When Will a New Payment Processor Be Implemented?
+When Will the New Payment Processor be Implemented?
+When did it "click"?
+When did you get your first money in itch.io?
+When is it time to start a devlog?
+When it comes to Funding your Game, what’s YOUR single biggest challenge right...
+When should I publish my Christmas game?
+When will someone take action against spam bots?
+Where are my views coming from?
+Where can I get a small investor for my project?
+Where can I recruit team members?
+Where can I see new games?
+Where do you get your ideas from?
+Where do you guys create the music for your games?
+Where do you promote yourself outside of itch.io and how?
+Where have all the browser room escape games gone?
+Where have you been?
+Where is 'charmles'? Fraud?
+Where is a nocode 3D game engine?
+Where is the best place to watch for bundle submission requests?
+Where is the search bar on this site?!
+Where to find copyright free music for game? Looking for drum and bass/Breakcore...
+Where to locate steam key?
+Where to look to find Streamers/Youtubers?
+Where/How can I find chinese gamers?
+Where/How to get game ideas and inspiration
+Which KIT would you like to see at $1?
+Which instances of Mastodon are suitable for game developers?
+Which is your favourite game engine?
+Which itch.io game covers are the ones that catch your attention the most?
+Who Has The Most Willpower In History
+Who Likes Reading Game Blogs?
+Who are the most FAMOUS developers who started off on Itch.io?
+Who else will visit DevGAMM Kyiv 2018?
+Who here has heard of Dreamkeepers? (Comment if you've haven't or at least heard...
+Who is named as seller on the bill at itch.io?
+Who is your favorite gaming YouTuber?
+Who knows smth about game promoting? Need advice of a guru!
+Who to follow
+Who wants to follow me?
+Who wants to play with me in NECROSIS game?
+Who worked with publisher,Share us your story,I really want to know
+Who would be ready for a Coop-Sale for role playing games
+Who's doing 1GAM every month in 2016?
+Whole Wheat Bread
+Why Do You Play Video Games?
+Why Everything is 2D on itch
+Why I Make What I Make – Gamehacks/Cheats
+Why I Turned My Anime Story into an RPG
+Why I made a text adventure game
+Why I've spent six months making a pixel art editor from scratch [Stipple Effect...
+Why are there so many horror games on itch.io?
+Why aren't I getting noticed?
+Why can't the indie game development scene be more open like the underground mus...
+Why demo is an Important aspect of the game?
+Why did summertime saga get removed from Itch.io
+Why do most of the spam threads advertise Keto stuff?
+Why do people keep charging for their games?
+Why do people like to buy cosmetic items for their game avatar?
+Why do people only want to use Steam?
+Why do so many people want NSFW games?
+Why do the games receive more support than the efforts on them?
+Why do you join the Discord of a game developer?
+Why doesn't itch.io make any good games?
+Why doesn’t itch.io have a wishlist
+Why fantasy?
+Why is hentai allowed on a game cover
+Why is horror games so popular on this site?
+Why is horror so popular on Itch.io?
+Why is there no poppy playtime chapter 2 things
+Why is there so much porn on this website?
+Why itciho allows mulitple subbmisions?
+Why my game is showing in draft
+Why not GoG?
+Why not make another site for adult games ?
+Why they don't made an Android client for itch.io?
+Why wasn't my book published?
+Why won't anyone download?
+Will I get money after the sale for my game ends?
+Will anyone recommend similar games?
+Will article 13 kill this site?
+Will make video on your game
+Will play your games and stream on twitch
+Will the suspended games be returning as well?
+Will windows defender be good enough for zip file scan?
+Windows Defender "unknown author" warning
+Winter Sale
+With old New year!
+Wizbird fans
+Wolf Alpha
+Wolfenstein inspired fps game available now!
+Woodlander: An Animal Fantasy
+Workaround for Adult Creators?
+Worked hard on update for 2 months, disappointed with analytics
+Working on a bold & bizarre game? We want to see it!
+Working solo.
+World Environment Day Bundle has been published
+Worst Game on Itch?
+Worthy publish games in itch.io?
+Would You Play This? Shiba Warriors - PvP Mobile Game
+Would a Publisher be recommended for a small game?
+Would a VR Action Platformer make a good game???
+Would a remix created by me be considered as Original?
+Would anyone like RPG Game action?
+Would it be possible to play the older version of the game, without the fear of...
+Would my idea make for a good youtube series?
+Would you like to help me fill out the survey for the best experience of Visual...
+Would you like to join a GDDJam FIRST?
+Would you play a game if it didn't have music?
+XMAS Game Bundle on Itchio
+XML Feed for web games only and free games ?
+XVerseRealm - channel
+Xenomorph Hive esque game
+Xsolla Game of the Year Award and $5,000 Cash Prize!
+Xsolla tagrting developers and what you need to know
+Yandere game recommendations?
+Yo i just released behind the scenes of the development of my hit game the lette...
+Yo! Need Your Help with these questions about Communication in the Games
+Yoo hoo dudes, yoo hoo!
+You are 1 in a Million
+You can develop apps for Cube OS!
+You can never escape
+YouTuber Looking for Games
+Your Artsy Game Probably Sucks
+Your First Game.
+Your aspirations for the new year?
+Your character to feature in my game.
+Your experience using itch
+Your experiences working in a team
+Your experiences.
+Your first game.
+Your thoughts in trigger warnings
+Youtube Channel for Baldi's Basics
+Youtube channel looking to interview/promote indie game devs
+Youtubers who Play Games?
+Zaranah
+Zombie Crafting Game idea?
+Zombie Retreat can't open the door
+[Assets] Demonic Dungeon (V2.0)!
+[Devs] Other platform to sell NSFW?
+[Help Needed!] I need your input for a quick survey about game features!
+[INDEXING] Am i waiting for indexing ?
+[ITALY] Vuoi sviluppare videogiochi e abiti a Latina o dintorni?
+[MALWARE] [WARNING] Godot malware
+[Meme] My curiosity is killing me
+[Newbie] How do we define a game price?
+[PAID] I need a game!
+[Question/Idea] Has anyone experimented with an FTL-and-X-Com fusion?
+[Review] Daily Chthonicle
+[Script] [Help] How to know what Scene is running?
+[Solved] Unity WebGL Game is to small
+[The Zombie Problem 2] My new indie game is out!
+[TikTok Effect house] Exclusive Invitation: Join Our Accelerated Growth Program...
+[da,de,en,es,fr,hu,it,pl,sk] I've made video in all those language to reach EU c...
+a bird appeared at my door
+a game engine that is free and open source
+a little question
+a long shot
+a pixel game i played a long time ago
+active full version
+adult and erotic tags games gone?
+adult/empire builder
+ajuda
+all the magic isnt real sometimes. minecraft 1.2.356.900
+an old game that im trying to find
+any games where i can play a femboy/otoko no ko type character
+any goood indie game you would recommend me?
+any idea for 3D casual game
+anyone have collections of shadowbanned HORROR games?
+anyone here ever mess with those AI chat games
+appologizes!!
+are there any games where the only rule is you have to outsmart your opponents
+ask a question about it. i answer
+battleOG
+beamsplitter | publishing services for indies
+been here for a while, feeling lost as a game dev
+big fan
+bought a gaming system like gameboy color
+bro uh musle woman yes
+bug with paypal transaction
+bugs
+bye itchio
+can admin delete my acount
+can anyone please help me find ravee games
+can i hold an ANTI-SALE?
+can i mod friday night funkin on windows then put it on my mac?
+can't find "online download set"
+can't find a game
+co op bundle
+commercial use
+commment if your a godot user
+controller
+cool idea for a game
+couple o fbugs
+devlogs are weird?
+digital euro... why are exactly visa and mastercard scared of it?
+digital newtons cradle
+discovering mainstream games on itch.io
+do you use the itch landing page?
+does ANYONE remember this deleted game?
+does anyone feel like everyone expects you to be perfect
+does anyone need a visual novel idea or a translation
+does anyone notice that we humans and fictional characters arnt so diffrent
+doing Stream Reviews returns!
+don't know what's a good start
+dont impress me
+dragongamedesigns.com is down
+draw this as a furry
+endless games
+endless progressive gameplay!!
+enough about TND we need TPD
+fake game port in itch.io
+favorite programming language
+find this game
+flash gamees
+fnf mods
+following itch stuff better
+formula 1 nes is a very nice racer
+free fnf mod trade offer
+from a Sheppard boy to a King
+funni roblox inspect jokes
+furries an non furries look at this picture and compare what you see
+game dev discord server
+game development google play console buy
+game media review + ratings
+game sponsorship.
+gamerARTS games for free
+games for basic pcs
+games forum
+go viral
+good genre
+good live
+good survival games for cheap
+good tag
+got few cool games
+great feedback im getting im very lucky to see this!
+great game platform
+hacked
+has there ever been a game that u play inside of a game
+have a happy holidays
+having trouble playin a game
+hear me out what if there was a horror choose your adventure game that was like...
+help
+help locating a twine game I played a year back
+help me
+help me find an adult game i believe it was on this site a few years back
+hey vgutys
+hey what alchohol should I mix with my dreamworld cola
+hi
+hi iam posting a dll
+holy shit
+horror games with combat
+horror or horror themed games that are not on the horror tag section
+how can I find some BDSM game?
+how can I get my game noticed on itch.io and even in general
+how can I market my game?
+how do I change Player count for my game ?
+how do i create a sales goal for an itch product
+how do i find "actual" speedrun game?
+how do i run a game on linux termanal?
+how do you market a multiplayer game?
+how generic is my username
+how i make my arts.
+how important is to have a discord server?
+how old do i have to be to join a game jam?
+how so succesfully launched, because not visible in browser or other my errors ?
+how to add an image to my project
+how to advertise my game better
+how to download older version of games
+how to market my indie game?
+how to play with friend without steam?
+how to understand ? is game dev ur thing or no?
+html5 error
+i feel idealess
+i have a game idea and i do not know where to post this
+i made a game bc i’m mad af
+i made a video about my gamedev journey.
+i made a video about my new video game company
+i might make an fnf mod alone
+i need help i am technician is not loading
+i played a really good and cool free pixel game last year but i cant remember th...
+i really want to know how should we promote our game is there any platform for s...
+i try to find some indie game, but can't
+i wan't for the futur, more drone game
+i want to play free games and add them with funny commentary to my youtube what...
+i will die when i amd 17
+i'm creativily stuck,i need your help
+i've been making early access game assets on my subscriptions & am looking for a...
+ia in gaming
+if you have made
+if you like to play as a wizard!
+if you need idea for a game
+if your fascinated by neuralink you should look at this
+ilovejerrysienfeld...
+im back
+im bout to make Ugh 2.0
+im broke but if i had money would you make my game
+im doing suthin goofy
+im gaming
+im looking for a list of obscure superpowers
+im scared for the future of minority art.
+indief**k
+install help
+is Garuda really the Protector?
+is censored NSFW considered as SFW?
+is it possible to search game assets based on names?
+is making 2 games a good idea???
+is there a musical horror game
+is there even anything remotely fun and entertaining that is free and on Linux ?
+itch app now available on Epic Game Store
+itch html5 games on website thumbnails not working
+itch io client is being a noob
+itch should enact crypto payments on any game that conservatives dont like(so al...
+itch.io Affiliate Program
+itch.io Community Bundle
+itch.io Community Bundle [RUN 2]
+itch.io Week
+itch.io game reviews
+itch.io is removing games from the Bundle for Racial Justice and Equality after...
+itch.io on steam? april fools or real?!
+itch.io streaming tonight
+its probably possible to make a a diy augmented reality headset
+key invalid wolfquest
+letmetest
+list of game jams?
+list of verified accounts?
+locating a game title by content.
+looking for
+looking for a certain game
+looking for a game
+looking for a game i played about a girl looking for her dad in an old hotel and...
+looking for a game（urgent！！！）
+looking for a specific print&play space game
+looking for an alien turn-based rpg-ish game
+looking for games
+looking for great 2d/3d game assets (free only)
+looking for twitter friends
+looking to get deeper into the indie gaming world
+maelstrom engine issue
+making money from games: how?
+max game size
+meme thing
+missing game
+my game progress watch first gameplay
+my prototype performanance
+my theory between the difference of soul and spirit in undertale au's and the d...
+mystery / whodunit game bundle?
+nalas
+name a game that is underrated
+need free games to play
+need gameserver starcore.infy.uk web
+need help finding a game I played once and then forgot
+need help, I don't know quite what to choose between game dev or novel
+networking FPV Freerider
+new game not showing on search
+new ideas
+new member here...
+nice!!
+notif type
+old itch.io
+other places like itch.io to post games?
+our disgusting fate
+overwrite website colors is so cool in firefox
+phone/computer snooping games???
+pix2d for windows 7
+pixel art
+pizzaveloper crossplay
+please guys fill out this survey about games
+please help me find this game
+please move this thread to the correct topic
+post 1 screenshot of your game [finished or unfinished] PLZ read rules!!
+post on nintendo switch browser
+post you metroidvania here!!
+pretty sure
+published your game on google playstore
+quality games
+question about 2014
+question about making a prototype game
+quiestion for players
+re: Projects with External Links Embedded in. DANGEROUS!!!
+real multiplayer hockey
+realflight controller
+register
+renryuu graveyard
+repulse event tomorrow!
+se cierra el buckshoot roulette luego de perder cualquier ronda
+searching for a game
+searching for horror coop online 3 player video game to do a video on
+send fnf browser mods
+should I make a rthym game
+similar sites like https://www.yygarchive.org/
+since i started making 3d games
+siren ressurection game help
+so are there any women on this
+so little downloads
+so many
+so theres this paper and pencil game called sim
+solution to views and downloads
+some of the best games
+someone should turn a tablet into a Linux pc
+sorry everyone! :(
+statistics on women creators and users of Itch
+submit your assets to our asset bundle! art, music, tools, etc. all welcome!
+submit your game to our anti Unity bundle!
+the event!
+the solution? uplift artists NOW!
+the year is 2022 and my sense of humor is still trollface help me
+the-temple-of-no​ problem
+things are very slow
+third party browser add ons
+this is my first day and this is my first topic
+this would've been useful 4 hours ago
+thoughts on kamala harris
+to VadimBallzGame could you please tell us how to access Super Vadimka
+transgender promotion - please join
+trying to find a arcade game
+twitter
+unlock user interface mode
+updating amongus
+uploaded HTML5 game not playing
+virtual reality headset technology
+waffle fan club
+website
+what are the tricks or concepts behind Huge games ???
+what do lfp/lfs mean
+what happened to sniper_gamingwastaken?
+what happened to snipergamingwastaken?
+what happens if I put an itch.io game in my steam library
+what if ?
+what if there was an mmo where you could get banned for not playing a certain wa...
+what is gameoff 2018 theme
+what is the average earning of people from itch
+what is the minimum age to join a game jam?
+what is your favorite danganronpa characters in all the 3 games
+what is your favorite game on itch
+what should be my next game idea
+what software are people using
+whats the best way to promote my game?
+whats the funniest game you ever played
+whats your favorite, and least favorite sprite editor application and why
+where can I find the patterns for red circles/blue squares etc found in a lot of...
+where else do you publish your games?
+which export do you think is the best ?
+which is your favorite naïve game?
+whish i had more downloads
+who knows and loves Gorillaz
+why sprunki this fake game?
+wiki?
+will give reviews of your game for free on yt
+woah...
+would by nice
+wow
+wtf is going in?
+yolo
+youtube analytics says a video had a lot of views embedded on itch
+zipcode not v alid
+¿Hay sitio para los juegos narrativos en castellano?
+Есть ли модификация для оптимизации под 0.8?
+Сломал игру. Voices of the void
+Со старым новым годом
+бббееббебеббе
+​ #notGDC for a pregnant mother and her Fantastic Fetus
+​Professional advertising - should one try his luck with this?
+​Spam of potentially malicious software in the Adult/NSFW sections
+​Star and Planet Visual
+​What is TTRPG?
+​i dont think that kids shoud play visual novels
+❤️❤️❤️Thanks for your activity ❤️❤️❤️
+【AI-Generated vs. Human-Crafted】What Quality Would Make You Play an AI-Gener...
+【One Sentence to Generate a Game?】What Would Worry You Most About Such a Sit...
+【Your Text Game Experiences】Moments That Made You Rage or Cheer?
+ココロン
+上传游戏文件报错【 Seeking Help 】
+🇨🇺 Alguien en Cuba ?
+🔞 Hosting a "Monster Boyfriend" bundle and submissions are OPEN! (ADULTS ONLY...

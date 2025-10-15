@@ -37,6 +37,13 @@ let extractPrefix (url: string) : string =
 // ─────────────────────────────────────────────────────────────
 // Webscraping
 // ─────────────────────────────────────────────────────────────
+let generateSteamForumUntils () : (string * string) list =
+    [30; 1; 10; 0; 2; 8; 7; 11; 12]
+    |> List.map (fun n -> 
+        match n with
+        | 0 -> ("https://steamcommunity.com/discussions/forum/0/",    "#forum_General_4009259_pagebtn_next")
+        | n -> ($"https://steamcommunity.com/discussions/forum/{n}/", $"#forum_General_4009259_{n}_pagebtn_next"))
+
 let scrapePage (url: string) (trgtCSS: string) : string list =
     let page = HtmlDocument.Load(url)
     page.CssSelect trgtCSS
@@ -115,22 +122,23 @@ let runPython (scriptPath: string) (args: string) : int =
 // ─────────────────────────────────────────────────────────────
 let run () : unit =
 
-    let itchResults =
-        scrapePages "https://itch.io/board/10017/general-discussion" 250 250 ".page_link.forward_link" ".topic_link"
-        |> List.concat
-        |> Set.ofList
-        |> Set.toList
-        |> List.truncate 500
-
-    File.WriteAllLines("../data/itch.txt", itchResults)
+    // let itchResults =
+    //     scrapePages "https://itch.io/board/10017/general-discussion" 500 500 ".page_link.forward_link" ".topic_link"
+    //     |> List.concat
+    //     |> Set.ofList
+    //     |> Set.toList
+    //     // |> List.truncate 500
+    //
+    // File.WriteAllLines("../data/itch.txt", itchResults)
 
     printfn ""
     let steamResults =
-        scrapePages "https://steamcommunity.com/discussions/forum/0/" 250 250 "#forum_General_4009259_pagebtn_next" ".forum_topic_name"
+        generateSteamForumUntils()
+        |> List.collect (fun (url, nxtpg) -> scrapePages url 500 500 nxtpg ".forum_topic_name")
         |> List.concat
         |> Set.ofList
         |> Set.toList
-        |> List.truncate 500
+        // |> List.truncate 500
 
     File.WriteAllLines("../data/steam.txt", steamResults)
 

@@ -25,18 +25,27 @@ def topic_model(src, embeddings, sentences):
     topic_model.visualize_documents(sentences, embeddings=embeddings)
 
     # Reduce dimensionality of embeddings, this step is optional but much faster to perform iteratively:
-    reduced_embeddings = UMAP(n_neighbors=10, n_components=2, min_dist=0.0, metric='cosine').fit_transform(embeddings)
-    fig = topic_model.visualize_documents(sentences, embeddings=embeddings, title=f"{src.capitalize()} Posts and Topics")
-    
+    reduced_embeddings = UMAP(
+        n_neighbors=10, n_components=2, min_dist=0.0, metric="cosine"
+    ).fit_transform(embeddings)
+    fig = topic_model.visualize_documents(
+        sentences,
+        embeddings=reduced_embeddings,
+        title=f"{src.capitalize()} Posts and Topics",
+    )
+
     # show and save
     fig.show()
-    fig.write_image(f"../docs/plots/{src}_topic_graph.png")
+    fig.write_image(f"./docs/plots/{src}_topic_graph.png")
+
 
 def cluster(embeddings, sentences):
     print("Start clustering")
     start_time = time.time()
 
-    clusters = util.community_detection(embeddings, min_community_size=10, threshold=0.75)
+    clusters = util.community_detection(
+        embeddings, min_community_size=10, threshold=0.75
+    )
 
     print(f"Clustering done after {time.time() - start_time:.2f} sec")
 
@@ -48,11 +57,12 @@ def cluster(embeddings, sentences):
         for sentence_id in cluster[-3:]:
             print("\t", sentences[sentence_id])
 
+
 def run():
     src = sys.argv[1]
 
     # The sentences to encode
-    with open(f"../data/{src}.txt", "r", encoding="utf-8") as file:
+    with open(f"./data/{src}.txt", "r", encoding="utf-8") as file:
         lines = [line.strip() for line in file]
 
     # 2. Calculate embeddings by calling model.encode()
@@ -70,6 +80,7 @@ def run():
     df = pd.DataFrame(similarities.numpy())
 
     # save
-    df.to_csv(f"../data/{src}.csv", index=True)
+    df.to_csv(f"./data/{src}.csv", index=True)
+
 
 run()

@@ -122,14 +122,13 @@ let runPython (scriptPath: string) (args: string) : int =
 // ─────────────────────────────────────────────────────────────
 let run () : unit =
 
-    // let itchResults =
-    //     scrapePages "https://itch.io/board/10017/general-discussion" 500 500 ".page_link.forward_link" ".topic_link"
-    //     |> List.concat
-    //     |> Set.ofList
-    //     |> Set.toList
-    //     // |> List.truncate 500
-    //
-    // File.WriteAllLines("../data/itch.txt", itchResults)
+    let itchResults =
+        scrapePages "https://itch.io/board/10017/general-discussion" 500 500 ".page_link.forward_link" ".topic_link"
+        |> List.concat
+        |> Set.ofList
+        |> Set.toList
+
+     File.WriteAllLines("./data/itch.txt", itchResults)
 
     printfn ""
     let steamResults =
@@ -138,9 +137,8 @@ let run () : unit =
         |> List.concat
         |> Set.ofList
         |> Set.toList
-        // |> List.truncate 500
 
-    File.WriteAllLines("../data/steam.txt", steamResults)
+    File.WriteAllLines("./data/steam.txt", steamResults)
 
     printfn ""
     let finalStatus =

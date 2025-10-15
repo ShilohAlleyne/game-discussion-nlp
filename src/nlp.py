@@ -21,6 +21,10 @@ def topic_model(src, embeddings, sentences):
     # Train BERTopic
     topic_model = topic_model.fit(sentences, embeddings)
 
+    # Save topics
+    df = get_topics_dataframe(topic_model)
+    df.to_csv(f"./data/{src}_topics.csv", index=False)
+
     # Run the visualization with the original embeddings
     topic_model.visualize_documents(sentences, embeddings=embeddings)
 
@@ -30,7 +34,7 @@ def topic_model(src, embeddings, sentences):
     ).fit_transform(embeddings)
     fig = topic_model.visualize_documents(
         sentences,
-        embeddings=reduced_embeddings,
+        embeddings=embeddings,
         title=f"{src.capitalize()} Posts and Topics",
     )
 
@@ -38,6 +42,15 @@ def topic_model(src, embeddings, sentences):
     fig.show()
     fig.write_image(f"./docs/plots/{src}_topic_graph.png")
 
+def get_topics_dataframe(topic_model):
+    topic_info = topic_model.get_topic_info()
+    # Clean the Name column by removing the leading topic number and underscore
+    topic_info["Cleaned Name"] = topic_info["Name"].apply(
+        lambda name: name.split("_", 1)[1] if "_" in name else name
+    )
+    # Select and rename columns for clarity
+    df = topic_info[["Topic", "Count", "Cleaned Name"]].rename(columns={"Cleaned Name": "Name"})
+    return df
 
 def cluster(embeddings, sentences):
     print("Start clustering")
@@ -68,19 +81,11 @@ def run():
     # 2. Calculate embeddings by calling model.encode()
     embeddings = model.encode(lines, batch_size=64, show_progress_bar=True)
 
-    # 2.5 Cluster sentences based on topics
+    # 3 Cluster sentences based on topics
     cluster(embeddings, lines)
 
-    # 2.6 Visualize topics
+    # 4 Visualize topics
     topic_model(src, embeddings, lines)
-
-    # 3. Calculate the embedding similarities
-    similarities = model.similarity(embeddings, embeddings)
-
-    df = pd.DataFrame(similarities.numpy())
-
-    # save
-    df.to_csv(f"./data/{src}.csv", index=True)
 
 
 run()

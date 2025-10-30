@@ -1,21 +1,10 @@
 import sys
 import time
-import pandas as pd
 import plotly.io as pio
 
 from sentence_transformers import SentenceTransformer, util
 from bertopic import BERTopic
-from sklearn.datasets import fetch_20newsgroups
 from umap import UMAP
-
-# /// script
-# dependencies = [
-#   sentence_transformers,
-#   pandas,
-#   numpy,
-#   kaleido,
-#   bertopic
-# ]
 
 pio.renderers.default = "browser"
 
@@ -50,6 +39,7 @@ def topic_model(src, embeddings, sentences):
     fig.show()
     fig.write_image(f"./docs/plots/{src}_topic_graph.png")
 
+
 def get_topics_dataframe(topic_model):
     topic_info = topic_model.get_topic_info()
     # Clean the Name column by removing the leading topic number and underscore
@@ -57,8 +47,11 @@ def get_topics_dataframe(topic_model):
         lambda name: name.split("_", 1)[1] if "_" in name else name
     )
     # Select and rename columns for clarity
-    df = topic_info[["Topic", "Count", "Cleaned Name"]].rename(columns={"Cleaned Name": "Name"})
+    df = topic_info[["Topic", "Count", "Cleaned Name"]].rename(
+        columns={"Cleaned Name": "Name"}
+    )
     return df
+
 
 def cluster(embeddings, sentences):
     print("Start clustering")

@@ -8,6 +8,14 @@ from bertopic import BERTopic
 from sklearn.datasets import fetch_20newsgroups
 from umap import UMAP
 
+# /// script
+# dependencies = [
+#   sentence_transformers,
+#   pandas,
+#   numpy,
+#   kaleido,
+#   bertopic
+# ]
 
 pio.renderers.default = "browser"
 
